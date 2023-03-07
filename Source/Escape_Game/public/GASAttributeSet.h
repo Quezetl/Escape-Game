@@ -62,11 +62,28 @@ public:
 	FGameplayAttributeData SpeedMultiplier;
 	ATTRIBUTE_ACCESSORS(UGASAttributeSet, SpeedMultiplier)
 
+	UPROPERTY(BlueprintReadOnly, Category = "Attributes", ReplicatedUsing = OnRep_Armor)
+	FGameplayAttributeData Armor;
+	ATTRIBUTE_ACCESSORS(UGASAttributeSet, Armor)
+
+	UPROPERTY(BlueprintReadOnly, Category = "Attributes", ReplicatedUsing = OnRep_CritRate)
+	FGameplayAttributeData CritRate;
+	ATTRIBUTE_ACCESSORS(UGASAttributeSet, CritRate)
+
+	UPROPERTY(BlueprintReadOnly, Category = "Attributes", ReplicatedUsing = OnRep_CritDamage)
+	FGameplayAttributeData CritDamage;
+	ATTRIBUTE_ACCESSORS(UGASAttributeSet, CritDamage)
+
+
+
 	//Delegates for attribute changes
 	FAttrChangeDelegate HealthChangeDelegate;
 	FAttrChangeDelegate ManaChangeDelegate;
 	FAttrChangeDelegate BaseAttackDamageChangeDelegate;
 	FAttrChangeDelegate SpeedMultiplierChangeDelegate;
+	FAttrChangeDelegate ArmorChangeDelegate;
+	FAttrChangeDelegate CritRateChangeDelegate;
+	FAttrChangeDelegate CritDamageChangeDelegate;
 
 
 	//Post Gameplay Effect Execute, only to clamp values
@@ -74,15 +91,21 @@ public:
 
 	//Replication Functions for Health and Mana
 	UFUNCTION()
-		virtual void OnRep_Health(const FGameplayAttributeData& OldHealth);
+	virtual void OnRep_Health(const FGameplayAttributeData& OldHealth);
 	UFUNCTION()
-		virtual void OnRep_MaxHealth(const FGameplayAttributeData& OldMaxHealth);
+	virtual void OnRep_MaxHealth(const FGameplayAttributeData& OldMaxHealth);
 	UFUNCTION()
-		virtual void OnRep_Mana(const FGameplayAttributeData& OldMana);
+	virtual void OnRep_Mana(const FGameplayAttributeData& OldMana);
 	UFUNCTION()
-		virtual void OnRep_MaxMana(const FGameplayAttributeData& OldMaxMana);
+	virtual void OnRep_MaxMana(const FGameplayAttributeData& OldMaxMana);
 	UFUNCTION()
-		virtual void OnRep_BaseAttackDamage(const FGameplayAttributeData& OldBaseAttackDamage);
+	virtual void OnRep_BaseAttackDamage(const FGameplayAttributeData& OldBaseAttackDamage);
 	UFUNCTION()
-		virtual void OnRep_SpeedMultiplier(const FGameplayAttributeData& OldSpeedMultiplier);
+	virtual void OnRep_SpeedMultiplier(const FGameplayAttributeData& OldSpeedMultiplier);
+	UFUNCTION()
+	virtual void OnRep_Armor(const FGameplayAttributeData& OldArmor);
+	UFUNCTION()
+	virtual void OnRep_CritRate(const FGameplayAttributeData& OldCritRate);
+	UFUNCTION()
+	virtual void OnRep_CritDamage(const FGameplayAttributeData& OldCritDamage);
 };

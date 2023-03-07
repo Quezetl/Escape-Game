@@ -48,6 +48,9 @@ void UGASAttributeSet::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Out
 	DOREPLIFETIME_CONDITION_NOTIFY(UGASAttributeSet, MaxMana, COND_None, REPNOTIFY_Always);
 	DOREPLIFETIME_CONDITION_NOTIFY(UGASAttributeSet, BaseAttackDamage, COND_None, REPNOTIFY_Always);
 	DOREPLIFETIME_CONDITION_NOTIFY(UGASAttributeSet, SpeedMultiplier, COND_None, REPNOTIFY_Always);
+	DOREPLIFETIME_CONDITION_NOTIFY(UGASAttributeSet, Armor, COND_None, REPNOTIFY_Always);
+	DOREPLIFETIME_CONDITION_NOTIFY(UGASAttributeSet, CritRate, COND_None, REPNOTIFY_Always);
+	DOREPLIFETIME_CONDITION_NOTIFY(UGASAttributeSet, CritDamage, COND_None, REPNOTIFY_Always);
 }
 
 void UGASAttributeSet::OnRep_Health(const FGameplayAttributeData& OldHealth)
@@ -78,4 +81,19 @@ void UGASAttributeSet::OnRep_BaseAttackDamage(const FGameplayAttributeData& OldB
 void UGASAttributeSet::OnRep_SpeedMultiplier(const FGameplayAttributeData& OldSpeedMultiplier)
 {
 	GAMEPLAYATTRIBUTE_REPNOTIFY(UGASAttributeSet, SpeedMultiplier, OldSpeedMultiplier);
+}
+
+void UGASAttributeSet::OnRep_Armor(const FGameplayAttributeData& OldArmor)
+{
+	GAMEPLAYATTRIBUTE_REPNOTIFY(UGASAttributeSet, SpeedMultiplier, OldArmor);
+}
+
+void UGASAttributeSet::OnRep_CritRate(const FGameplayAttributeData& OldCritRate)
+{
+	GAMEPLAYATTRIBUTE_REPNOTIFY(UGASAttributeSet, SpeedMultiplier, OldCritRate);
+}
+
+void UGASAttributeSet::OnRep_CritDamage(const FGameplayAttributeData& OldCritDamage)
+{
+	GAMEPLAYATTRIBUTE_REPNOTIFY(UGASAttributeSet, SpeedMultiplier, OldCritDamage);
 }

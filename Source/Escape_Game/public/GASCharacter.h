@@ -52,6 +52,12 @@ public:
 	virtual void OnBaseAttackDamageChangedNative(float BaseAttackDamage, int32 StackCount);
 	UFUNCTION()
 	virtual void OnSpeedMultiplierChangedNative(float SpeedMultiplier, int32 StackCount);
+	UFUNCTION()
+	virtual void OnArmorChangedNative(float Armor, int32 StackCount);
+	UFUNCTION()
+	virtual void OnCritRateChangedNative(float CritRate, int32 StackCount);
+	UFUNCTION()
+	virtual void OnCritDamageChangedNative(float CritDamage, int32 StackCount);
 
 	//******Event that bind to native events and are implemented in BPs********
 
@@ -70,6 +76,15 @@ public:
 	//Event Trigger On Speed Multiplier
 	UFUNCTION(BlueprintImplementableEvent, Category = "GASGameplayAbility")
 	void OnSpeedMultiplierChange(float SpeedMultiplier, int32 StackCount);
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "GASGameplayAbility")
+	void OnArmorChange(float Armor, int32 StackCount);
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "GASGameplayAbility")
+	void OnCritRateChange(float CritRate, int32 StackCount);
+
+	UFUNCTION(BlueprintImplementableEvent, Category = "GASGameplayAbility")
+	void OnCritDamageChange(float CritDamage, int32 StackCount);
 
 	//Alternate Method for Attribute Change Delagates
 	////Native functions for Health Change and Mana Change
@@ -113,6 +128,15 @@ public:
 	//Getter for Speed Multiplier Values
 	UFUNCTION(BlueprintPure, Category = "GASGameplayAbility")
 	void GetSpeedMultiplierValues(float& SpeedMultiplier);
+
+	UFUNCTION(BlueprintPure, Category = "GASGameplayAbility")
+	void GetArmorValues(float& Armor);
+
+	UFUNCTION(BlueprintPure, Category = "GASGameplayAbility")
+	void GetCritRateValues(float& CritRate);
+
+	UFUNCTION(BlueprintPure, Category = "GASGameplayAbility")
+	void GetCritDamageValues(float& CritDamage);
 
 	//********Ability Modifier Functions********
 

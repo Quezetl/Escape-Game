@@ -32,6 +32,9 @@ void AGASCharacter::BeginPlay()
 		const_cast<UGASAttributeSet*>(AttributeSetVar)->ManaChangeDelegate.AddDynamic(this, &AGASCharacter::OnManaChangedNative);
 		const_cast<UGASAttributeSet*>(AttributeSetVar)->BaseAttackDamageChangeDelegate.AddDynamic(this, &AGASCharacter::OnBaseAttackDamageChangedNative);
 		const_cast<UGASAttributeSet*>(AttributeSetVar)->SpeedMultiplierChangeDelegate.AddDynamic(this, &AGASCharacter::OnSpeedMultiplierChangedNative);
+		const_cast<UGASAttributeSet*>(AttributeSetVar)->ArmorChangeDelegate.AddDynamic(this, &AGASCharacter::OnArmorChangedNative);
+		const_cast<UGASAttributeSet*>(AttributeSetVar)->CritRateChangeDelegate.AddDynamic(this, &AGASCharacter::OnCritRateChangedNative);
+		const_cast<UGASAttributeSet*>(AttributeSetVar)->CritDamageChangeDelegate.AddDynamic(this, &AGASCharacter::OnCritDamageChangedNative);
 
 		//Alternate Method for Attribute Change Delegate
 		//AbilitySystemComponent->GetGameplayAttributeValueChangeDelegate(AttributeSetVar->GetHealthAttribute()).AddUObject(this, &AGASCharacter::OnHealthChangedNative);
@@ -77,6 +80,21 @@ void AGASCharacter::OnBaseAttackDamageChangedNative(float BaseAttackDamage, int3
 void AGASCharacter::OnSpeedMultiplierChangedNative(float SpeedMultiplier, int32 StackCount)
 {
 	OnSpeedMultiplierChange(SpeedMultiplier, StackCount);
+}
+
+void AGASCharacter::OnArmorChangedNative(float Armor, int32 StackCount)
+{
+	OnArmorChange(Armor, StackCount);
+}
+
+void AGASCharacter::OnCritRateChangedNative(float CritRate, int32 StackCount)
+{
+	OnCritRateChange(CritRate, StackCount);
+}
+
+void AGASCharacter::OnCritDamageChangedNative(float CritDamage, int32 StackCount)
+{
+	OnCritDamageChange(CritDamage, StackCount);
 }
 
 //Function Definition for Alternate Method for Attribute Change Delegates
@@ -150,6 +168,30 @@ void AGASCharacter::GetSpeedMultiplierValues(float& SpeedMultiplier)
 	if (AttributeSetVar)
 	{
 		SpeedMultiplier = AttributeSetVar->GetSpeedMultiplier();
+	}
+}
+
+void AGASCharacter::GetArmorValues(float& Armor)
+{
+	if (AttributeSetVar)
+	{
+		Armor = AttributeSetVar->GetArmor();
+	}
+}
+
+void AGASCharacter::GetCritRateValues(float& CritRate)
+{
+	if (AttributeSetVar)
+	{
+		CritRate = AttributeSetVar->GetCritRate();
+	}
+}
+
+void AGASCharacter::GetCritDamageValues(float& CritDamage)
+{
+	if (AttributeSetVar)
+	{
+		CritDamage = AttributeSetVar->GetCritDamage();
 	}
 }
 
