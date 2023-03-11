@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\rielj\\OneDrive\\문서\\Github\\Escape\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectEditor\\DungeonArchitectEditor.Build.cs",
+		"C:\\Users\\rielj\\OneDrive\\문서\\Github\\Escape\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectRuntime\\DungeonArchitectRuntime.Build.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
