@@ -1,7 +1,10 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\rielj\\OneDrive\\문서\\Github\\Escape\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectEditor\\DungeonArchitectEditor.Build.cs",
-		"C:\\Users\\rielj\\OneDrive\\문서\\Github\\Escape\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectRuntime\\DungeonArchitectRuntime.Build.cs"
+		"D:\\Github\\Escape-Game\\Source\\Escape_Game\\Escape_Game.Build.cs",
+		"D:\\Github\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectEditor\\DungeonArchitectEditor.Build.cs",
+		"D:\\Github\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectRuntime\\DungeonArchitectRuntime.Build.cs",
+		"D:\\Github\\Escape-Game\\Source\\Escape_Game.Target.cs",
+		"D:\\Github\\Escape-Game\\Source\\Escape_GameEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
