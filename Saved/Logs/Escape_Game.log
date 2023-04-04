@@ -12212,3 +12212,1007 @@ Script Stack (0 frames):
 [2023.04.04-18.08.58:117][778]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
 [2023.04.04-18.09.14:772][337]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_DragonTerror
 [2023.04.04-18.09.14:821][337]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.04-18.10.29:933][206]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Github/Escape-Game/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.04.04-18.10.29:933][206]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Github/Escape-Game/Content/Developers/SarmientoPC/Collections/' because it could not be accessed. Aborting watch request...
+[2023.04.04-18.10.32:253][213]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Github/Escape-Game/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_HeatHaze_Normal.T_HeatHaze_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_ScorchBurn.T_ScorchBurn (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Noise.T_Noise (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Fire_01.T_Fire_01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_CircleSoftest.T_CircleSoftest (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_ScorchBurn_Normal.T_ScorchBurn_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Smoke_01_Normal.T_Smoke_01_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Smoke_01.T_Smoke_01 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.11.00:749][101]LogMaterial: Display: Missing cached shadermap for M_Embers in PCD3D_SM5, Default, SM5 (DDC key hash: 388A008696CF14DA0705A08B1EF32CAD0C080009), compiling. 
+[2023.04.04-18.11.02:164][101]LogMaterial: Display: Missing cached shadermap for M_Fire in PCD3D_SM5, Default, SM5 (DDC key hash: 9FF54F135BBB60824FADF16B8E6FF90CD68721AB), compiling. 
+[2023.04.04-18.11.02:348][101]LogMaterial: Display: Missing cached shadermap for M_Haze in PCD3D_SM5, Default, SM5 (DDC key hash: D5AF9F100F86DD71F6DAAC0E7645F35BA6850DE0), compiling. 
+[2023.04.04-18.11.02:826][101]LogMaterial: Display: Missing cached shadermap for M_Scorch in PCD3D_SM5, Default, SM5 (DDC key hash: 65155AC0AF3E1B1F17E9D30BE460F1FC9DAC6744), compiling. 
+[2023.04.04-18.11.04:362][101]LogMaterial: Display: Missing cached shadermap for M_Smoke in PCD3D_SM5, Default, SM5 (DDC key hash: 5F74AB6ECB27AFF7CE523A50B6B811643AFB4C6E), compiling. 
+[2023.04.04-18.11.18:216][101]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DragonFlameFX/Blueprints/BP_DragonDummy.BP_DragonDummy
+[2023.04.04-18.11.18:218][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.11.24:545][102]LogShaderCompilers: Display: ================================================
+[2023.04.04-18.11.24:545][102]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.04-18.11.24:545][102]LogShaderCompilers: Display: Total job queries 611, among them cache hits 3 (0.49%)
+[2023.04.04-18.11.24:546][102]LogShaderCompilers: Display: Tracking 200 distinct input hashes that result in 137 distinct outputs (68.50%)
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: RAM used: 0.38 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Shaders Compiled: 606
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Jobs assigned 271, completed 200 (73.80%)
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Average time worker was idle: 1473.45 s
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Time job spent in pending queue: average 3.66 s, longest 27.58 s
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Job execution time: average 13.85 s, max 22.22 s
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Job life time (pending + execution): average 18.77 s, max 28.70
+[2023.04.04-18.11.24:579][102]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.08 s
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: Jobs were issued in 57 batches (only local compilation was used), average 4.75 jobs/batch
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: Average processing rate: 2.74 jobs/sec
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: Effective parallelization: 4.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:                       TLightMapDensityVSFDummyLightMapPolicy (compiled    1 times, average 2.61 sec, max 2.61 sec, min 2.61 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 2.47 sec, max 2.94 sec, min 2.00 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 2.44 sec, max 3.40 sec, min 1.71 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 2.44 sec, max 2.71 sec, min 2.17 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    4 times, average 2.43 sec, max 3.27 sec, min 1.57 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.13% of total time (compiled    8 times, average 2.32 sec, max 3.04 sec, min 1.70 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 5.13% of total time (compiled    8 times, average 2.32 sec, max 3.58 sec, min 1.28 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 4.73% of total time (compiled    7 times, average 2.44 sec, max 3.40 sec, min 1.71 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.31% of total time (compiled    7 times, average 2.23 sec, max 2.95 sec, min 1.72 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.23% of total time (compiled    7 times, average 2.19 sec, max 2.93 sec, min 1.62 sec)
+[2023.04.04-18.11.24:580][102]LogShaderCompilers: Display: ================================================
+[2023.04.04-18.11.33:356][278]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_Fire.NS_DragonFlame_Fire took 16.635880 sec (time since issued), 98.159813 sec (combined shader worker time).
+[2023.04.04-18.11.40:775][459]LogViewport: Scene viewport resized to 1016x617, mode Windowed.
+[2023.04.04-18.12.09:273][288]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/1e/82/2437eaefcc211165b3a3acc59ea657464330.udd from 'NS_DragonFlame_Fire/NE_Embers/ParticleGPUComputeScript'.
+[2023.04.04-18.12.25:140][692]LogUObjectHash: Compacting FUObjectHashTables data took  11.39ms
+[2023.04.04-18.12.26:327][692]LogSlate: Window 'Save Content' being destroyed
+[2023.04.04-18.12.26:432][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Egypt/BoneDragon/BP_DragonTerror" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Egypt/BoneDragon/BP_DragonTerror.uasset" SILENT=true
+[2023.04.04-18.12.26:509][692]LogSavePackage: Moving output files for package: /Game/Enemy/Egypt/BoneDragon/BP_DragonTerror
+[2023.04.04-18.12.26:509][692]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_DragonTerror580607284FEEA56539A5A4AA20FF3D5C.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Egypt/BoneDragon/BP_DragonTerror.uasset'
+[2023.04.04-18.12.26:512][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GAS/EgyptEnemies" FILE="../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.04-18.12.26:887][692]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2023.04.04-18.12.26:944][692]LogSavePackage: Moving output files for package: /Game/GAS/EgyptEnemies
+[2023.04.04-18.12.26:945][692]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/EgyptEnemies838D54EE495CF048D713988F56EE741C.tmp' to '../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap'
+[2023.04.04-18.12.26:992][692]LogFileHelpers: Saving map 'EgyptEnemies' took 0.481
+[2023.04.04-18.12.32:336][692]LogTexture: Display: Building textures: /Game/DragonFlameFX/Maps/Overview_BuiltData.Overview_BuiltData:NewReflectionComponentTextureC4925D044D18A98ED3F907987EFC20EF (BGRA8, 128X128 X1X1) (Required Memory Estimate: 2.499962 MB), EncodeSpeed: Fast
+[2023.04.04-18.12.32:336][692]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Fire_02.T_Fire_02 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.12.32:336][692]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Noise_Normal.T_Noise_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.12.32:336][692]LogTexture: Display: Building textures: /Game/DragonFlameFX/Textures/T_Fire_03.T_Fire_03 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.04-18.12.32:336][692]LogMaterial: Display: Missing cached shadermap for M_Concrete in PCD3D_SM5, Default, SM5 (DDC key hash: 9D01438E2C570F613FA48D27239130D77B55940A), compiling. 
+[2023.04.04-18.13.23:894][692]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_Ice.NS_DragonFlame_Ice took 2.952214 sec, no shader worker used.
+[2023.04.04-18.13.24:084][692]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_Green.NS_DragonFlame_Green took 3.652944 sec, no shader worker used.
+[2023.04.04-18.13.24:218][692]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_Blaze.NS_DragonFlame_Blaze took 4.807720 sec, no shader worker used.
+[2023.04.04-18.13.24:367][692]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_Yellow.NS_DragonFlame_Yellow took 1.860361 sec, no shader worker used.
+[2023.04.04-18.13.24:471][692]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_White.NS_DragonFlame_White took 2.499707 sec, no shader worker used.
+[2023.04.04-18.13.25:295][692]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DragonFlameFX/Maps/Overview.Overview
+[2023.04.04-18.13.25:296][692]Cmd: MAP LOAD FILE="../../../../../../../Github/Escape-Game/Content/DragonFlameFX/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.04-18.13.25:296][692]LightingResults: New page: Lighting Build
+[2023.04.04-18.13.25:296][692]LoadErrors: New page: Loading map: Overview.umap
+[2023.04.04-18.13.25:353][692]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.04.04-18.13.25:629][692]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.13.25:629][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.13.25:638][692]MapCheck: New page: Map Check
+[2023.04.04-18.13.25:638][692]LightingResults: New page: Lighting Build
+[2023.04.04-18.13.25:766][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-18.13.25:823][692]LogUObjectHash: Compacting FUObjectHashTables data took  20.07ms
+[2023.04.04-18.13.25:886][692]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.13.25:886][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.13.26:028][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.04.04-18.13.26:162][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.04.04-18.13.26:190][692]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2023.04.04-18.13.26:190][692]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.13.26:190][692]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.13.26:201][692]LogAIModule: Creating AISystem for world Overview
+[2023.04.04-18.13.28:328][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.04.04-18.13.28:380][692]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.04-18.13.28:655][692]LogUObjectHash: Compacting FUObjectHashTables data took   8.74ms
+[2023.04.04-18.13.28:683][692]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.04-18.13.28:683][692]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2023.04.04-18.13.28:683][692]LogFileHelpers: Loading map 'Overview' took 3.388
+[2023.04.04-18.13.28:699][692]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000363s (1.415517s overbudget)
+[2023.04.04-18.13.28:800][692]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.04-18.13.28:800][692]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Egypt/BoneDragon/BP_DragonTerror.BP_DragonTerror
+[2023.04.04-18.13.28:800][692]LogContentValidation: Display: Validating World /Game/GAS/EgyptEnemies.EgyptEnemies
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 9f94d5c790a07ce88b8641a46f7dbb139eb87058 and existing hash d4dde0f999ee4b707a404313215375852c23832b for LegacyNiagaraScriptDerivedData/8eee5202cab91ce46faf8a71870674d0e59fc04a from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Fire.UpdateScript_1'
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash c6a9ca6e96bd24737bc624ce009f2034187e57c1 and existing hash e2112f448a617c61ab12e5292dd6e38c3ef0fc1c for LegacyNiagaraScriptDerivedData/a307b50d6b4f6298016fbccb559f0440c1dd2693 from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Fire.SpawnScript_0'
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash a9e40bac33d0362033c48475efa136e3233c0219 and existing hash 83233535e8160d5ddaf4662ae6e92e41757a93e1 for LegacyNiagaraScriptDerivedData/655ab46e0163c741d8af5e0c74499fa8fe34d2b3 from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Fire.EventScript_5'
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash fb43610abd8acb7a46710697ef270e2dbf8df661 and existing hash 047676e1dc0c0fc4b6e7a70fe9340f7b7b1fdfa6 for LegacyNiagaraScriptDerivedData/a77dd058c81e8985ebca4693c7499dc4bb1ffe01 from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Embers.EventScript_5'
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 77d7b264815a56234d21745cf7e9a4276cae6fd3 and existing hash 984a96fc5e2fabf77d8f98e25665a1b1581e6839 for LegacyNiagaraScriptDerivedData/d29b0b46ba320e9fb4fc4c886497b9ecf42192ec from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Embers.UpdateScript_1'
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 978acf7c5d2fa8a46af9cdb06d1e0756086af57c and existing hash 961ad4241c2206f6adc870658449a85b122a500f for LegacyNiagaraScriptDerivedData/e048d03f861e6a2718f13bba75027fe0a4a7814a from '/Game/DragonFlameFX/FX/NS_DragonFlame_DarkMagic.NS_DragonFlame_DarkMagic:NE_Scorch_Haze.SpawnScript'
+[2023.04.04-18.13.31:083][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 80b8b76980824297aae12cc951a8d424a6191f1c and existing hash 82ab19dfa20e00e0e8879429662392efd375dc7d for LegacyNiagaraScriptDerivedData/7d8f52532e63fcce12a0a2b1a17cda5d7ba7be83 from '/Game/DragonFlameFX/FX/NS_DragonFlame_DarkMagic.NS_DragonFlame_DarkMagic:NE_Scorch_Embers.SpawnScript_0'
+[2023.04.04-18.13.31:084][694]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNiagaraScriptDerivedData/b4/4b/960a4f5ce3a6847d83a9f72462fb8d275aec.udd from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:SystemSpawnScript'.
+[2023.04.04-18.13.31:084][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash baeb158d867737614311420f0964f75ff5006025 and existing hash ec71abb340794a37e3b2b3bea188f778c066329f for LegacyNiagaraScriptDerivedData/4d326c8134e8613754405c8666e50893b52921a5 from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Haze.EventScript_0'
+[2023.04.04-18.13.31:084][694]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash e2b86bb380c522d0eb4f41a70e7173a87f4d64db and existing hash aa3814268d8e3f5ad5a020f437d0f2a969daef21 for LegacyNiagaraScriptDerivedData/f7dc9b16a2e945597e6c30d7ead7c6ea98f9b61a from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:NE_Scorch_Haze.UpdateScript'
+[2023.04.04-18.13.32:001][694]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_DarkMagic.NS_DragonFlame_DarkMagic took 12.077354 sec (time since issued), 86.597656 sec (combined shader worker time).
+[2023.04.04-18.13.32:221][695]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash df45129779d6fa8eec56fba741b53e5b147714d5 and existing hash 1cfd2474056464298517a262080f98c0aa4d1639 for LegacyNiagaraScriptDerivedData/e033392e205717ddbd0497c9e9eb0af2d80afdfc from '/Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red:SystemUpdateScript'
+[2023.04.04-18.13.32:221][695]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_DragonFlame_Red.NS_DragonFlame_Red took 10.768845 sec (time since issued), 94.668053 sec (combined shader worker time).
+[2023.04.04-18.13.34:268][698]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 0fb4ba8a34aed1c99fd128552805036549123d32 and existing hash 7f09c1624f09e222cedbeab248037bad17467aa3 for LegacyNiagaraScriptDerivedData/ca4254f00846e35050a40cad0a4db8b1b05d58a5 from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Embers.SpawnScript_6'
+[2023.04.04-18.13.34:268][698]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 688bf933627f299a448cc85bd26baeb5347f5174 and existing hash 4a3d0ba71e02ed46240b2fa5ad326e0673d7dcac for LegacyNiagaraScriptDerivedData/d2cec8922a6ef91684837ae889d107e23b33a066 from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Flames.SpawnScript_1'
+[2023.04.04-18.13.34:268][698]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 38d54cd23afbc8e659dfc40745cb450f74e7722f and existing hash e88b3a42f2c083b637fa1ec1169c9b06ccb15f08 for LegacyNiagaraScriptDerivedData/661feb9b87deb7ece28b5a96ae95b9345379901e from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Flames.UpdateScript_2'
+[2023.04.04-18.13.34:268][698]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 238282db3258129c2c87e4b56b0eb6e1a2155062 and existing hash 7e09bc6596594f30d5928cb2655f78b149959e62 for LegacyNiagaraScriptDerivedData/501a54d82767eb27d2e5befff7fa0e927b5da150 from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Embers.UpdateScript_7'
+[2023.04.04-18.13.34:561][699]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 9dc09063a1cdbf298c60f579274e681789dcc0ff and existing hash f88d3568df069ae2b3c23e7ad5183e79c15d9008 for LegacyNiagaraScriptDerivedData/55693b668e87a2112a0951463a920058f40334d5 from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Embers.GPUComputeScript_10'
+[2023.04.04-18.13.34:700][701]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 46672ec463c3f885f298b8b8e21e488d35f7e68b and existing hash 9f82cd00fb27dd0790d0773477cff713dc91f927 for LegacyNiagaraScriptDerivedData/e9cfb1fa611d926ad759f61a19131e933735cb3a from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:SystemSpawnScript'
+[2023.04.04-18.13.35:010][703]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.13.35:257][705]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash 29d8882a930cc7a72820bad2c6a733bf1c1f43e4 and existing hash a2ecf6d2bc6ef8aff94d891941262c2dad065dec for LegacyNiagaraScriptDerivedData/3628e1c29e48e125ad6c0efb84962f6b71ec2ba8 from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:SystemUpdateScript'
+[2023.04.04-18.13.35:348][705]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_FlameThrower_1.NS_FlameThrower_1 took 12.330132 sec (time since issued), 34.645584 sec (combined shader worker time).
+[2023.04.04-18.13.35:783][715]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash b41a717ce1a1d0ba5c46b90fb4395bde38234201 and existing hash 1c787a8c1118149df9267230e7e3583f66fb9fea for LegacyNiagaraScriptDerivedData/cb40d83024bc988cabc92d44aea037be5825c33a from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Smoke.UpdateScript_26'
+[2023.04.04-18.13.37:122][753]LogDerivedDataCache: Display: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Cache put found non-deterministic value with new hash cff259b1da5d91c36e2e59d80d4e28163a8df125 and existing hash b32e53d05fdeaf9a5809d82bcfc283565efd6464 for LegacyNiagaraScriptDerivedData/5e2b3c015c5eedd72555d5914b651026083984f5 from '/Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2:NE_Smoke.SpawnScript_25'
+[2023.04.04-18.13.37:122][753]LogNiagara: Compiling System NiagaraSystem /Game/DragonFlameFX/FX/NS_FlameThrower_2.NS_FlameThrower_2 took 13.747006 sec (time since issued), 33.550617 sec (combined shader worker time).
+[2023.04.04-18.13.40:896][851]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/18/ce/fb225b8367b9bf4dbc1750b4a8b86491020d.udd from 'NS_FlameThrower_1/NE_Embers/ParticleGPUComputeScript'.
+[2023.04.04-18.13.58:954][932]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.13.59:024][932]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.13.59:025][932]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.13.59:026][932]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.13.59:114][932]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.13.59:124][932]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.04.04-18.13.59:125][932]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.04.04-18.13.59:126][932]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.04.04-18.13.59:213][932]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2023.04.04-18.13.59:325][932]LogD3D12RHI: Warning: Waited for PSO creation for 400.000000ms
+[2023.04.04-18.13.59:326][932]LogD3D12RHI: Warning: Waited for PSO creation for 400.000000ms
+[2023.04.04-18.13.59:334][932]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2023.04.04-18.16.11:212][687]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2023.04.04-18.16.11:234][687]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GAS/EgyptEnemies.EgyptEnemies
+[2023.04.04-18.16.11:234][687]Cmd: MAP LOAD FILE="../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.04-18.16.11:234][687]LightingResults: New page: Lighting Build
+[2023.04.04-18.16.11:234][687]LoadErrors: New page: Loading map: EgyptEnemies.umap
+[2023.04.04-18.16.11:261][687]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.16.11:261][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.16.11:261][687]MapCheck: New page: Map Check
+[2023.04.04-18.16.11:262][687]LightingResults: New page: Lighting Build
+[2023.04.04-18.16.11:377][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-18.16.11:385][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.04.04-18.16.11:389][687]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.16.11:390][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.16.11:525][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.04.04-18.16.11:646][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.04.04-18.16.11:654][687]LogAudio: Display: Audio Device (ID: 1) registered with world 'EgyptEnemies'.
+[2023.04.04-18.16.11:654][687]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.16.11:654][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.16.11:654][687]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.16.11:685][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.04-18.16.11:814][687]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.04.04-18.16.11:825][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.04-18.16.11:825][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2023.04.04-18.16.11:825][687]LogFileHelpers: Loading map 'EgyptEnemies' took 0.591
+[2023.04.04-18.16.25:028][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GAS/Projectile/GA_Projectile.GA_Projectile
+[2023.04.04-18.16.25:029][884]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.16.28:916][254]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_TakeDamage.HeadBob_TakeDamage_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.16.28:916][254]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Shoot.HeadBob_Shoot_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.16.28:916][254]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Run.HeadBob_Run_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.16.28:916][254]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Idle.HeadBob_Idle_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.16.28:916][254]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapGridFlow_SideScroller/Blueprints/Characters/SS_SprintCamShake.SS_SprintCamShake_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.16.28:916][254]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.16.36:613][ 37]BlueprintLog: New page: Compile GA_Projectile
+[2023.04.04-18.16.36:803][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.04.04-18.16.38:249][165]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.16.38:258][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-18.16.38:258][165]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:16:38 AM)
+[2023.04.04-18.16.38:259][165]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.16.38:264][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005547s)
+[2023.04.04-18.16.38:264][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.005638s)
+[2023.04.04-18.16.38:264][165]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.16.38:264][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.16.38:265][165]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.16.38:265][165]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2023.04.04-18.16.38:391][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.04.04-18.16.38:394][165]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.16.38:394][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.16.38:394][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.16.38:395][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.16.38:395][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.16.38:395][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.16.38:398][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.16.38:425][165]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.16.38:425][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.16.38:425][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.16.38:425][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.16.38:425][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2023.04.04-18.16.38:425][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2023.04.04-18.16.38:427][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2023.04.04-18.16.38:427][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2023.04.04-18.16.38:427][165]LogInit: FAudioDevice initialized.
+[2023.04.04-18.16.38:427][165]LogAudio: Display: Audio Device (ID: 82) registered with world 'EgyptEnemies'.
+[2023.04.04-18.16.38:438][165]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.16.38:443][165]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.16.38
+[2023.04.04-18.16.38:444][165]LogWorld: Bringing up level for play took: 0.005741
+[2023.04.04-18.16.38:446][165]LogOnline: OSS: Created online subsystem instance for: :Context_177
+[2023.04.04-18.16.38:447][165]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.16.38:447][165]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.16.38:447][165]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.16.38:447][165]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:448][165]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.16.38:451][165]PIE: Server logged in
+[2023.04.04-18.16.38:452][165]PIE: Play in editor total start time 0.194 seconds.
+[2023.04.04-18.16.39:675][298]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.16.47:804][755]LogBlueprintUserMessages: [GA_Projectile_C_1] Hello
+[2023.04.04-18.16.49:890][853]LogBlueprintUserMessages: [GA_Projectile_C_2] Hello
+[2023.04.04-18.16.51:887][926]LogBlueprintUserMessages: [GA_Projectile_C_3] Hello
+[2023.04.04-18.16.53:926][987]LogBlueprintUserMessages: [GA_Projectile_C_4] Hello
+[2023.04.04-18.16.55:608][ 31]LogBlueprintUserMessages: [GA_Projectile_C_5] Hello
+[2023.04.04-18.16.57:059][ 65]LogBlueprintUserMessages: [GA_Projectile_C_6] Hello
+[2023.04.04-18.16.58:447][ 96]LogBlueprintUserMessages: [GA_Projectile_C_7] Hello
+[2023.04.04-18.17.00:025][134]LogBlueprintUserMessages: [GA_Projectile_C_8] Hello
+[2023.04.04-18.17.01:488][171]LogBlueprintUserMessages: [GA_Projectile_C_9] Hello
+[2023.04.04-18.17.02:251][186]LogBlueprintUserMessages: [oni_task_attack_C_1] Enemy
+[2023.04.04-18.17.03:422][207]LogBlueprintUserMessages: [GA_Projectile_C_10] Hello
+[2023.04.04-18.17.04:059][216]LogBlueprintUserMessages: [oni_task_attack_C_1] Enemy
+[2023.04.04-18.17.04:475][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.17.04:475][222]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.17.04:475][222]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.17.04:477][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.17.04:506][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.17.04:530][222]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.17.04:543][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.17.04:675][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.17.04:675][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.04.04-18.17.04:677][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2023.04.04-18.17.04:689][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.04.04-18.17.04:807][223]LogPlayLevel: Display: Destroying online subsystem :Context_177
+[2023.04.04-18.17.10:053][640]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_TakeDamage.HeadBob_TakeDamage_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.17.10:053][640]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Shoot.HeadBob_Shoot_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.17.10:053][640]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Run.HeadBob_Run_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.17.10:053][640]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Idle.HeadBob_Idle_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.17.10:053][640]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapGridFlow_SideScroller/Blueprints/Characters/SS_SprintCamShake.SS_SprintCamShake_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.17.10:053][640]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.17.23:577][640]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.04-18.17.23:588][640]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.04-18.17.23:596][640]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.04-18.17.23:609][641]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.04-18.17.29:962][269]LogContentBrowser: Attempting asset rename: NewBlueprint -> FireBreath
+[2023.04.04-18.17.29:969][269]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.04-18.17.31:201][385]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GAS/Projectile/FireBreath.FireBreath
+[2023.04.04-18.17.31:202][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.17.31:667][385]LogViewport: Scene viewport resized to 1016x617, mode Windowed.
+[2023.04.04-18.17.54:155][346]BlueprintLog: New page: Compile FireBreath
+[2023.04.04-18.17.54:340][346]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.04.04-18.18.08:749][708]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_TakeDamage.HeadBob_TakeDamage_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.18.08:749][708]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Shoot.HeadBob_Shoot_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.18.08:749][708]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Run.HeadBob_Run_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.18.08:749][708]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Idle.HeadBob_Idle_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.18.08:749][708]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapGridFlow_SideScroller/Blueprints/Characters/SS_SprintCamShake.SS_SprintCamShake_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.18.08:749][708]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.04-18.18.15:098][379]BlueprintLog: New page: Compile GA_Projectile
+[2023.04.04-18.18.15:235][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.04.04-18.18.16:311][479]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.18.16:319][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-18.18.16:320][479]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:18:16 AM)
+[2023.04.04-18.18.16:344][479]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.18.16:348][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004471s)
+[2023.04.04-18.18.16:348][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.004557s)
+[2023.04.04-18.18.16:348][479]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.18.16:348][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.18.16:349][479]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.18.16:349][479]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2023.04.04-18.18.16:482][479]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.04-18.18.16:484][479]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.18.16:485][479]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.18.16:485][479]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.18.16:485][479]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.18.16:485][479]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.18.16:485][479]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.18.16:487][479]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.18.16:514][479]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.18.16:514][479]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.18.16:514][479]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.18.16:514][479]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.18.16:515][479]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2023.04.04-18.18.16:515][479]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2023.04.04-18.18.16:516][479]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2023.04.04-18.18.16:516][479]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2023.04.04-18.18.16:516][479]LogInit: FAudioDevice initialized.
+[2023.04.04-18.18.16:516][479]LogAudio: Display: Audio Device (ID: 83) registered with world 'EgyptEnemies'.
+[2023.04.04-18.18.16:524][479]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.18.16:528][479]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.18.16
+[2023.04.04-18.18.16:529][479]LogWorld: Bringing up level for play took: 0.004964
+[2023.04.04-18.18.16:531][479]LogOnline: OSS: Created online subsystem instance for: :Context_179
+[2023.04.04-18.18.16:532][479]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.18.16:532][479]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.18.16:532][479]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:532][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:533][479]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.18.16:536][479]PIE: Server logged in
+[2023.04.04-18.18.16:537][479]PIE: Play in editor total start time 0.218 seconds.
+[2023.04.04-18.18.17:675][599]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.18.22:958][ 72]LogBlueprintUserMessages: [GA_Projectile_C_1] Hello
+[2023.04.04-18.18.33:118][492]LogBlueprintUserMessages: [oni_task_attack_C_1] Enemy
+[2023.04.04-18.18.34:275][556]LogBlueprintUserMessages: [oni_task_attack_C_1] Enemy
+[2023.04.04-18.18.34:753][585]LogBlueprintUserMessages: [GA_Projectile_C_2] Hello
+[2023.04.04-18.18.35:333][614]LogBlueprintUserMessages: [oni_task_attack_C_0] Enemy
+[2023.04.04-18.18.36:346][646]LogBlueprintUserMessages: [oni_task_attack_C_0] Enemy
+[2023.04.04-18.18.36:963][674]LogBlueprintUserMessages: [GA_Projectile_C_3] Hello
+[2023.04.04-18.18.37:352][691]LogBlueprintUserMessages: [oni_task_attack_C_0] Enemy
+[2023.04.04-18.18.39:175][731]LogBlueprintUserMessages: [oni_task_attack_C_1] Enemy
+[2023.04.04-18.18.40:236][771]LogBlueprintUserMessages: [oni_task_attack_C_0] Enemy
+[2023.04.04-18.18.41:252][811]LogBlueprintUserMessages: [oni_task_attack_C_0] Enemy
+[2023.04.04-18.18.41:492][821]LogBlueprintUserMessages: [GA_Projectile_C_4] Hello
+[2023.04.04-18.18.42:614][863]LogBlueprintUserMessages: [oni_task_attack_C_1] Enemy
+[2023.04.04-18.18.42:844][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.18.42:844][869]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.18.42:844][869]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.18.42:845][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.18.42:867][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.18.42:868][869]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.18.42:868][869]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.18.42:881][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.18.43:014][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-18.18.43:014][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.04.04-18.18.43:015][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2023.04.04-18.18.43:018][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.18.43:025][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.04.04-18.18.43:112][870]LogPlayLevel: Display: Destroying online subsystem :Context_179
+[2023.04.04-18.19.38:479][844]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.19.38:487][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-18.19.38:488][844]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:19:38 AM)
+[2023.04.04-18.19.38:488][844]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.19.38:495][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007167s)
+[2023.04.04-18.19.38:495][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.007244s)
+[2023.04.04-18.19.38:495][844]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.19.38:495][844]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.19.38:495][844]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.19.38:496][844]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2023.04.04-18.19.38:642][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.04.04-18.19.38:646][844]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2023.04.04-18.19.38:646][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.19.38:647][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.19.38:647][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.19.38:647][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.19.38:647][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.19.38:647][844]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.19.38:647][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.19.38:647][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.19.38:648][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.19.38:648][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.19.38:648][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.19.38:649][844]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.19.38:679][844]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.19.38:679][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.19.38:679][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.19.38:679][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.19.38:680][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2023.04.04-18.19.38:680][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2023.04.04-18.19.38:682][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2023.04.04-18.19.38:682][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2023.04.04-18.19.38:682][844]LogInit: FAudioDevice initialized.
+[2023.04.04-18.19.38:682][844]LogAudio: Display: Audio Device (ID: 84) registered with world 'EgyptEnemies'.
+[2023.04.04-18.19.38:693][844]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.19.38:698][844]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.19.38
+[2023.04.04-18.19.38:699][844]LogWorld: Bringing up level for play took: 0.005608
+[2023.04.04-18.19.38:718][844]LogOnline: OSS: Created online subsystem instance for: :Context_180
+[2023.04.04-18.19.38:719][844]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.19.38:719][844]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.19.38:719][844]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:720][844]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.19.38:723][844]PIE: Server logged in
+[2023.04.04-18.19.38:724][844]PIE: Play in editor total start time 0.237 seconds.
+[2023.04.04-18.19.39:696][942]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.19.41:165][ 88]LogBlueprintUserMessages: [GA_Projectile_C_1] Hello
+[2023.04.04-18.19.42:653][170]LogBlueprintUserMessages: [GA_Projectile_C_2] Hello
+[2023.04.04-18.19.43:028][184]LogBlueprintUserMessages: [GA_Projectile_C_3] Hello
+[2023.04.04-18.19.43:222][191]LogBlueprintUserMessages: [GA_Projectile_C_4] Hello
+[2023.04.04-18.19.43:407][197]LogBlueprintUserMessages: [GA_Projectile_C_5] Hello
+[2023.04.04-18.19.43:618][202]LogBlueprintUserMessages: [GA_Projectile_C_6] Hello
+[2023.04.04-18.19.43:745][205]LogBlueprintUserMessages: [GA_Projectile_C_7] Hello
+[2023.04.04-18.19.43:894][208]LogBlueprintUserMessages: [GA_Projectile_C_8] Hello
+[2023.04.04-18.19.44:066][211]LogBlueprintUserMessages: [GA_Projectile_C_9] Hello
+[2023.04.04-18.19.44:220][213]LogBlueprintUserMessages: [GA_Projectile_C_10] Hello
+[2023.04.04-18.19.44:403][215]LogBlueprintUserMessages: [GA_Projectile_C_11] Hello
+[2023.04.04-18.19.44:619][217]LogBlueprintUserMessages: [GA_Projectile_C_12] Hello
+[2023.04.04-18.19.44:750][218]LogBlueprintUserMessages: [GA_Projectile_C_13] Hello
+[2023.04.04-18.19.45:000][220]LogBlueprintUserMessages: [GA_Projectile_C_14] Hello
+[2023.04.04-18.19.45:131][221]LogBlueprintUserMessages: [GA_Projectile_C_15] Hello
+[2023.04.04-18.19.45:272][222]LogBlueprintUserMessages: [GA_Projectile_C_16] Hello
+[2023.04.04-18.19.45:274][222]LogBlueprintUserMessages: [GA_Projectile_C_17] Hello
+[2023.04.04-18.19.45:746][225]LogBlueprintUserMessages: [GA_Projectile_C_19] Hello
+[2023.04.04-18.19.45:747][225]LogBlueprintUserMessages: [GA_Projectile_C_18] Hello
+[2023.04.04-18.19.45:892][226]LogBlueprintUserMessages: [GA_Projectile_C_20] Hello
+[2023.04.04-18.19.46:245][228]LogBlueprintUserMessages: [GA_Projectile_C_21] Hello
+[2023.04.04-18.19.46:437][229]LogBlueprintUserMessages: [GA_Projectile_C_22] Hello
+[2023.04.04-18.19.46:647][230]LogBlueprintUserMessages: [GA_Projectile_C_23] Hello
+[2023.04.04-18.19.46:857][231]LogBlueprintUserMessages: [GA_Projectile_C_24] Hello
+[2023.04.04-18.19.47:315][233]LogBlueprintUserMessages: [GA_Projectile_C_25] Hello
+[2023.04.04-18.19.47:831][235]LogBlueprintUserMessages: [GA_Projectile_C_26] Hello
+[2023.04.04-18.19.48:194][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.19.48:194][236]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.19.48:195][236]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.19.48:196][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.19.48:603][236]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.19.48:603][236]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.19.48:603][236]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.19.48:617][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.19.48:755][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.19.48:755][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.04.04-18.19.48:757][236]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2023.04.04-18.19.48:769][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2023.04.04-18.19.48:881][237]LogPlayLevel: Display: Destroying online subsystem :Context_180
+[2023.04.04-18.24.59:799][771]BlueprintLog: New page: Compile FireBreath
+[2023.04.04-18.24.59:997][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.04.04-18.25.01:240][867]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.25.01:248][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-18.25.01:248][867]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:25:01 AM)
+[2023.04.04-18.25.01:274][867]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.25.01:279][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004652s)
+[2023.04.04-18.25.01:279][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.004737s)
+[2023.04.04-18.25.01:279][867]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.25.01:279][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.25.01:279][867]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.25.01:279][867]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2023.04.04-18.25.01:413][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.04.04-18.25.01:416][867]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.25.01:416][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.25.01:416][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.25.01:417][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.25.01:417][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.25.01:417][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.25.01:420][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.25.01:446][867]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.25.01:447][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.25.01:447][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.25.01:447][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.25.01:447][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2023.04.04-18.25.01:447][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2023.04.04-18.25.01:449][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2023.04.04-18.25.01:449][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2023.04.04-18.25.01:449][867]LogInit: FAudioDevice initialized.
+[2023.04.04-18.25.01:449][867]LogAudio: Display: Audio Device (ID: 85) registered with world 'EgyptEnemies'.
+[2023.04.04-18.25.01:461][867]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.25.01:466][867]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.25.01
+[2023.04.04-18.25.01:467][867]LogWorld: Bringing up level for play took: 0.005543
+[2023.04.04-18.25.01:469][867]LogOnline: OSS: Created online subsystem instance for: :Context_181
+[2023.04.04-18.25.01:469][867]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.25.01:470][867]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.25.01:470][867]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:470][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:471][867]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.25.01:474][867]PIE: Server logged in
+[2023.04.04-18.25.01:475][867]PIE: Play in editor total start time 0.227 seconds.
+[2023.04.04-18.25.02:784][989]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.25.07:317][404]LogBlueprintUserMessages: [GA_Projectile_C_1] Hello
+[2023.04.04-18.25.11:831][839]LogBlueprintUserMessages: [GA_Projectile_C_2] Hello
+[2023.04.04-18.25.16:686][230]LogBlueprintUserMessages: [GA_Projectile_C_3] Hello
+[2023.04.04-18.25.21:244][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.25.21:244][575]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.25.21:244][575]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.25.21:245][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.25.21:257][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.25.21:257][575]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.25.21:273][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.25.21:405][575]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-18.25.21:405][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.04.04-18.25.21:406][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2023.04.04-18.25.21:409][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.25.21:416][575]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.04.04-18.25.21:504][576]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2023.04.04-18.27.47:802][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.04.04-18.27.47:807][979]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GAS/EgyptEnemies' took 0.168
+[2023.04.04-18.27.47:807][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GAS/Projectile/GA_Projectile] ([2] browsable assets)...
+[2023.04.04-18.27.47:807][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/GAS/Projectile/GA_Projectile]
+[2023.04.04-18.27.47:807][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GAS/Projectile/GA_Projectile" FILE="../../../../../../../Github/Escape-Game/Saved/Autosaves/Game/GAS/Projectile/GA_Projectile_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2023.04.04-18.27.47:831][979]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GAS/Projectile/GA_Projectile_Auto6
+[2023.04.04-18.27.47:848][979]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/GA_Projectile_Auto64F9A31FB467D8F190DCD8DA8CE8AA9BA.tmp' to '../../../../../../../Github/Escape-Game/Saved/Autosaves/Game/GAS/Projectile/GA_Projectile_Auto6.uasset'
+[2023.04.04-18.27.47:848][979]LogFileHelpers: Auto-saving content packages took 0.042
+[2023.04.04-18.31.32:766][483]LogAssetEditorSubsystem: Opening Asset editor for NiagaraEmitter /Game/DragonFlameFX/FX/Emitters/NE_Embers.NE_Embers
+[2023.04.04-18.31.37:825][483]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.04.04-18.31.39:244][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.31.39:594][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.31.40:424][483]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000567s (5.670805s overbudget)
+[2023.04.04-18.31.43:044][483]LogViewport: Scene viewport resized to 355x642, mode Windowed.
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: ================================================
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Total job queries 684, among them cache hits 3 (0.44%)
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Tracking 679 distinct input hashes that result in 376 distinct outputs (55.38%)
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: RAM used: 2.03 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.25%
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Shaders Compiled: 622
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Jobs assigned 679, completed 679 (100.00%)
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Average time worker was idle: 490.11 s
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Time job spent in pending queue: average 36.64 s, longest 125.43 s
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Job execution time: average 17.13 s, max 32.17 s
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Job life time (pending + execution): average 53.77 s, max 126.40
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 195.87 s
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Jobs were issued in 160 batches (only local compilation was used), average 4.24 jobs/batch
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Average processing rate: 3.47 jobs/sec
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Effective parallelization: 6.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.04-18.31.46:495][484]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 3.34 sec, max 4.70 sec, min 2.53 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled   16 times, average 3.05 sec, max 5.70 sec, min 1.84 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    3 times, average 2.96 sec, max 3.55 sec, min 2.64 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled   16 times, average 2.93 sec, max 4.74 sec, min 1.55 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled   16 times, average 2.87 sec, max 4.69 sec, min 1.57 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:                                               FNiagaraShader - 5.95% of total time (compiled   58 times, average 1.34 sec, max 13.85 sec, min 0.07 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 5.06% of total time (compiled   23 times, average 2.86 sec, max 5.01 sec, min 1.59 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 4.94% of total time (compiled   23 times, average 2.80 sec, max 5.23 sec, min 1.28 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.74% of total time (compiled   23 times, average 2.68 sec, max 5.02 sec, min 1.60 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.88% of total time (compiled   23 times, average 2.20 sec, max 3.42 sec, min 1.06 sec)
+[2023.04.04-18.31.46:496][484]LogShaderCompilers: Display: ================================================
+[2023.04.04-18.31.46:736][485]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 13.611570 sec (time since issued), 13.800270 sec (combined shader worker time).
+[2023.04.04-18.31.47:606][488]LogNiagara: Compiling System NiagaraSystem /Engine/Transient.NiagaraSystem_0 took 0.484322 sec (time since issued), 0.557184 sec (combined shader worker time).
+[2023.04.04-18.31.47:846][496]314499_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2023.04.04-18.31.52:248][678]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.31.52:249][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.33.45:807][679]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyNIAGARASM/9d/aa/d2cdaf3ce75d81d96ace64c96f37c831a6e8.udd from 'NiagaraSystem_0/NE_Embers/ParticleGPUComputeScript'.
+[2023.04.04-18.33.51:965][787]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.04-18.33.51:965][787]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.33.51:965][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.33.52:817][787]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.272 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.04-18.33.54:764][936]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.04-18.33.54:764][936]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.33.54:764][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.33.57:791][102]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.33.57:791][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.33.59:360][192]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.33.59:360][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.00:432][262]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.00:432][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.02:059][374]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.02:059][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.02:155][374]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.02:155][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.03:018][374]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.03:018][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.04:287][491]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.04:287][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.05:555][590]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.05:555][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.05:620][590]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.05:620][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.05:763][590]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.05:763][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.06:664][682]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.06:664][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.07:779][787]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.07:779][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.09:154][904]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.09:154][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.09:181][904]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.09:182][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.09:269][904]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.09:270][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.10:115][992]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.04-18.34.10:115][992]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.10:115][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.34.10:962][ 75]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.34.10:962][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.36.28:206][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.36.28:215][695]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.04-18.36.28:216][695]LogPlayLevel: [PlayLevel] Compiling FireBreath before play...
+[2023.04.04-18.36.28:823][695]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2023.04.04-18.36.28:832][695]LogPlayLevel: PlayLevel: Blueprint regeneration took 617 ms (1 blueprints)
+[2023.04.04-18.36.28:832][695]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:36:28 AM)
+[2023.04.04-18.36.28:875][695]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.36.28:881][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004949s)
+[2023.04.04-18.36.28:881][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.005256s)
+[2023.04.04-18.36.28:881][695]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.36.28:881][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.36.28:881][695]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.36.28:881][695]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2023.04.04-18.36.29:646][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.04.04-18.36.29:661][695]LogAudio: Display: Creating Audio Device:                 Id: 86, Scope: Unique, Realtime: True
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.36.29:661][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.36.29:661][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.36.29:661][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.36.29:661][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.36.29:661][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.36.29:716][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.36.29:746][695]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.36.29:746][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.36.29:746][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.36.29:746][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.36.29:760][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=86
+[2023.04.04-18.36.29:760][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=86
+[2023.04.04-18.36.29:761][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=86
+[2023.04.04-18.36.29:761][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=86
+[2023.04.04-18.36.29:761][695]LogInit: FAudioDevice initialized.
+[2023.04.04-18.36.29:761][695]LogAudio: Display: Audio Device (ID: 86) registered with world 'EgyptEnemies'.
+[2023.04.04-18.36.29:784][695]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.36.29:789][695]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.36.29
+[2023.04.04-18.36.29:789][695]LogWorld: Bringing up level for play took: 0.005670
+[2023.04.04-18.36.29:792][695]LogOnline: OSS: Created online subsystem instance for: :Context_184
+[2023.04.04-18.36.29:792][695]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.36.29:793][695]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.36.29:793][695]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:793][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:794][695]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.36.29:796][695]PIE: Server logged in
+[2023.04.04-18.36.29:797][695]PIE: Play in editor total start time 1.583 seconds.
+[2023.04.04-18.36.31:075][833]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.36.35:379][229]LogBlueprintUserMessages: [GA_Projectile_C_1] Hello
+[2023.04.04-18.36.39:441][615]LogBlueprintUserMessages: [GA_Projectile_C_2] Hello
+[2023.04.04-18.36.43:414][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.36.43:414][882]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.36.43:415][882]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.36.43:415][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.36.43:429][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.36.43:429][882]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.36.43:440][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.36.43:487][882]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-18.36.43:488][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.04.04-18.36.43:489][882]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=86
+[2023.04.04-18.36.43:493][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.36.43:498][882]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.04.04-18.36.43:565][883]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2023.04.04-18.36.48:853][421]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.36.48:853][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.36.48:878][421]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.36.48:878][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.36.49:087][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.04.04-18.37.10:798][789]BlueprintLog: New page: Compile FireBreath
+[2023.04.04-18.37.10:877][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.04.04-18.37.12:566][967]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.37.12:575][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-18.37.12:575][967]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:37:12 AM)
+[2023.04.04-18.37.12:604][967]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.37.12:609][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004608s)
+[2023.04.04-18.37.12:609][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.004699s)
+[2023.04.04-18.37.12:609][967]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.37.12:609][967]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.37.12:609][967]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.37.12:609][967]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2023.04.04-18.37.12:656][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.04.04-18.37.12:659][967]LogAudio: Display: Creating Audio Device:                 Id: 87, Scope: Unique, Realtime: True
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.37.12:659][967]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.37.12:659][967]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.37.12:659][967]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.37.12:660][967]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.37.12:660][967]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.37.12:662][967]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.37.12:691][967]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.37.12:692][967]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.37.12:692][967]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.37.12:692][967]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.37.12:692][967]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=87
+[2023.04.04-18.37.12:692][967]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=87
+[2023.04.04-18.37.12:693][967]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=87
+[2023.04.04-18.37.12:694][967]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=87
+[2023.04.04-18.37.12:694][967]LogInit: FAudioDevice initialized.
+[2023.04.04-18.37.12:694][967]LogAudio: Display: Audio Device (ID: 87) registered with world 'EgyptEnemies'.
+[2023.04.04-18.37.12:707][967]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.37.12:711][967]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.37.12
+[2023.04.04-18.37.12:712][967]LogWorld: Bringing up level for play took: 0.005200
+[2023.04.04-18.37.12:714][967]LogOnline: OSS: Created online subsystem instance for: :Context_185
+[2023.04.04-18.37.12:715][967]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.37.12:715][967]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.37.12:715][967]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:728][967]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.37.12:731][967]PIE: Server logged in
+[2023.04.04-18.37.12:732][967]PIE: Play in editor total start time 0.157 seconds.
+[2023.04.04-18.37.13:841][ 92]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.37.18:596][564]LogBlueprintUserMessages: [GA_Projectile_C_1] Hello
+[2023.04.04-18.37.19:545][671]LogBlueprintUserMessages: [GA_Projectile_C_2] Hello
+[2023.04.04-18.37.19:819][692]LogBlueprintUserMessages: [GA_Projectile_C_3] Hello
+[2023.04.04-18.37.20:066][704]LogBlueprintUserMessages: [GA_Projectile_C_4] Hello
+[2023.04.04-18.37.20:262][711]LogBlueprintUserMessages: [GA_Projectile_C_5] Hello
+[2023.04.04-18.37.20:468][717]LogBlueprintUserMessages: [GA_Projectile_C_6] Hello
+[2023.04.04-18.37.20:651][721]LogBlueprintUserMessages: [GA_Projectile_C_7] Hello
+[2023.04.04-18.37.20:811][724]LogBlueprintUserMessages: [GA_Projectile_C_8] Hello
+[2023.04.04-18.37.24:894][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.37.24:894][994]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.37.24:895][994]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.37.24:895][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.37.24:907][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.37.24:907][994]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.37.24:917][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.37.24:961][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.04-18.37.24:961][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.04.04-18.37.24:963][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=87
+[2023.04.04-18.37.24:966][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.37.24:971][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.04.04-18.37.25:065][995]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2023.04.04-18.38.44:778][396]LogNiagara: Compiling System NiagaraSystem /Niagara/DefaultAssets/Templates/Systems/RadialBurst.RadialBurst took 0.303063 sec, no shader worker used.
+[2023.04.04-18.38.49:133][718]LogNiagara: Compiling System NiagaraSystem /Niagara/DefaultAssets/Templates/Systems/SimpleExplosion.SimpleExplosion took 0.406893 sec, no shader worker used.
+[2023.04.04-18.39.05:152][292]LogNiagara: Compiling System NiagaraSystem /HairStrands/Emitters/GroomRodsSystem.GroomRodsSystem took 0.220193 sec, no shader worker used.
+[2023.04.04-18.39.34:437][152]BlueprintLog: New page: Compile FireBreath
+[2023.04.04-18.39.34:515][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.04.04-18.39.38:311][573]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.04-18.39.38:318][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.04-18.39.38:318][573]PIE: New page: PIE session: EgyptEnemies (Apr 4, 2023, 4:39:38 AM)
+[2023.04.04-18.39.38:354][573]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.39.38:359][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004669s)
+[2023.04.04-18.39.38:359][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.004765s)
+[2023.04.04-18.39.38:359][573]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.04-18.39.38:359][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.04-18.39.38:359][573]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.04-18.39.38:360][573]LogPlayLevel: PIE: World Init took: (0.000885s)
+[2023.04.04-18.39.38:408][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.04.04-18.39.38:411][573]LogAudio: Display: Creating Audio Device:                 Id: 88, Scope: Unique, Realtime: True
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.04-18.39.38:411][573]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.04-18.39.38:411][573]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.04-18.39.38:411][573]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.04-18.39.38:412][573]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.04-18.39.38:412][573]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.04-18.39.38:413][573]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.04-18.39.38:441][573]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.04-18.39.38:441][573]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.04-18.39.38:441][573]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.04-18.39.38:441][573]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.04-18.39.38:441][573]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=88
+[2023.04.04-18.39.38:441][573]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=88
+[2023.04.04-18.39.38:443][573]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=88
+[2023.04.04-18.39.38:443][573]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=88
+[2023.04.04-18.39.38:443][573]LogInit: FAudioDevice initialized.
+[2023.04.04-18.39.38:443][573]LogAudio: Display: Audio Device (ID: 88) registered with world 'EgyptEnemies'.
+[2023.04.04-18.39.38:455][573]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.04-18.39.38:460][573]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.04-11.39.38
+[2023.04.04-18.39.38:461][573]LogWorld: Bringing up level for play took: 0.005254
+[2023.04.04-18.39.38:463][573]LogOnline: OSS: Created online subsystem instance for: :Context_186
+[2023.04.04-18.39.38:464][573]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.04-18.39.38:464][573]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.04-18.39.38:464][573]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:465][573]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.04-18.39.38:468][573]PIE: Server logged in
+[2023.04.04-18.39.38:469][573]PIE: Play in editor total start time 0.151 seconds.
+[2023.04.04-18.39.39:726][719]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.04-18.39.45:285][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.39.45:285][303]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.04-18.39.45:285][303]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.04-18.39.45:286][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.39.45:298][303]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.04-18.39.45:298][303]LogNiagaraEditor: onPieEnd
+[2023.04.04-18.39.45:309][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.04-18.39.45:353][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.04-18.39.45:354][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.04.04-18.39.45:355][303]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=88
+[2023.04.04-18.39.45:363][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.04.04-18.39.45:403][304]LogPlayLevel: Display: Destroying online subsystem :Context_186
