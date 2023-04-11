@@ -1,0 +1,589 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class USnapGridFlowModel;
+class USnapGridFlowConfig;
+class USnapGridFlowBuilder;
+class USnapGridFlowQuery;
+struct FRandomStream;
+#ifdef DUNGEONARCHITECTRUNTIME_SnapGridFlowDungeon_generated_h
+#error "SnapGridFlowDungeon.generated.h already included, missing '#pragma once' in SnapGridFlowDungeon.h"
+#endif
+#define DUNGEONARCHITECTRUNTIME_SnapGridFlowDungeon_generated_h
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowConfig(); \
+	friend struct Z_Construct_UClass_USnapGridFlowConfig_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowConfig, UDungeonConfig, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowConfig)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowConfig(); \
+	friend struct Z_Construct_UClass_USnapGridFlowConfig_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowConfig, UDungeonConfig, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowConfig)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowConfig(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowConfig) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowConfig); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowConfig); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowConfig(USnapGridFlowConfig&&); \
+	NO_API USnapGridFlowConfig(const USnapGridFlowConfig&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowConfig(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowConfig(USnapGridFlowConfig&&); \
+	NO_API USnapGridFlowConfig(const USnapGridFlowConfig&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowConfig); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowConfig); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowConfig)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_22_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_24_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowConfig>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowModel(); \
+	friend struct Z_Construct_UClass_USnapGridFlowModel_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowModel, UDungeonModel, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowModel)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowModel(); \
+	friend struct Z_Construct_UClass_USnapGridFlowModel_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowModel, UDungeonModel, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowModel)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowModel(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowModel) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowModel); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowModel); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowModel(USnapGridFlowModel&&); \
+	NO_API USnapGridFlowModel(const USnapGridFlowModel&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowModel(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowModel(USnapGridFlowModel&&); \
+	NO_API USnapGridFlowModel(const USnapGridFlowModel&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowModel); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowModel); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowModel)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_88_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_90_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowModel>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowQuery(); \
+	friend struct Z_Construct_UClass_USnapGridFlowQuery_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowQuery, UDungeonQuery, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowQuery)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowQuery(); \
+	friend struct Z_Construct_UClass_USnapGridFlowQuery_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowQuery, UDungeonQuery, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowQuery)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowQuery(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowQuery) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowQuery); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowQuery); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowQuery(USnapGridFlowQuery&&); \
+	NO_API USnapGridFlowQuery(const USnapGridFlowQuery&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowQuery() { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowQuery(USnapGridFlowQuery&&); \
+	NO_API USnapGridFlowQuery(const USnapGridFlowQuery&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowQuery); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowQuery); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USnapGridFlowQuery)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_107_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_109_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowQuery>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowToolData(); \
+	friend struct Z_Construct_UClass_USnapGridFlowToolData_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowToolData, UDungeonToolData, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowToolData)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowToolData(); \
+	friend struct Z_Construct_UClass_USnapGridFlowToolData_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowToolData, UDungeonToolData, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowToolData)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowToolData(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowToolData) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowToolData); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowToolData); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowToolData(USnapGridFlowToolData&&); \
+	NO_API USnapGridFlowToolData(const USnapGridFlowToolData&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowToolData(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowToolData(USnapGridFlowToolData&&); \
+	NO_API USnapGridFlowToolData(const USnapGridFlowToolData&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowToolData); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowToolData); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowToolData)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_112_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_114_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowToolData>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowBuilder(); \
+	friend struct Z_Construct_UClass_USnapGridFlowBuilder_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowBuilder, UDungeonBuilder, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowBuilder)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowBuilder(); \
+	friend struct Z_Construct_UClass_USnapGridFlowBuilder_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowBuilder, UDungeonBuilder, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowBuilder)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowBuilder(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowBuilder) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowBuilder); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowBuilder); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowBuilder(USnapGridFlowBuilder&&); \
+	NO_API USnapGridFlowBuilder(const USnapGridFlowBuilder&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowBuilder(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowBuilder(USnapGridFlowBuilder&&); \
+	NO_API USnapGridFlowBuilder(const USnapGridFlowBuilder&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowBuilder); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowBuilder); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowBuilder)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_118_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_120_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowBuilder>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_RPC_WRAPPERS \
+	virtual bool SelectNode_Implementation(USnapGridFlowModel* Model, USnapGridFlowConfig* Config, USnapGridFlowBuilder* Builder, USnapGridFlowQuery* Query, FRandomStream const& RandomStream, FTransform const& MarkerTransform); \
+ \
+	DECLARE_FUNCTION(execSelectNode);
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execSelectNode);
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_EVENT_PARMS \
+	struct SnapGridFlowSelectorLogic_eventSelectNode_Parms \
+	{ \
+		USnapGridFlowModel* Model; \
+		USnapGridFlowConfig* Config; \
+		USnapGridFlowBuilder* Builder; \
+		USnapGridFlowQuery* Query; \
+		FRandomStream RandomStream; \
+		FTransform MarkerTransform; \
+		bool ReturnValue; \
+ \
+		/** Constructor, initializes return property only **/ \
+		SnapGridFlowSelectorLogic_eventSelectNode_Parms() \
+			: ReturnValue(false) \
+		{ \
+		} \
+	};
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_CALLBACK_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowSelectorLogic(); \
+	friend struct Z_Construct_UClass_USnapGridFlowSelectorLogic_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowSelectorLogic, UDungeonSelectorLogic, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowSelectorLogic)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowSelectorLogic(); \
+	friend struct Z_Construct_UClass_USnapGridFlowSelectorLogic_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowSelectorLogic, UDungeonSelectorLogic, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowSelectorLogic)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowSelectorLogic(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowSelectorLogic) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowSelectorLogic); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowSelectorLogic); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowSelectorLogic(USnapGridFlowSelectorLogic&&); \
+	NO_API USnapGridFlowSelectorLogic(const USnapGridFlowSelectorLogic&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowSelectorLogic(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowSelectorLogic(USnapGridFlowSelectorLogic&&); \
+	NO_API USnapGridFlowSelectorLogic(const USnapGridFlowSelectorLogic&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowSelectorLogic); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowSelectorLogic); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowSelectorLogic)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_198_PROLOG \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_EVENT_PARMS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_CALLBACK_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_CALLBACK_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_200_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowSelectorLogic>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_RPC_WRAPPERS \
+	virtual void GetNodeOffset_Implementation(USnapGridFlowModel* Model, USnapGridFlowConfig* Config, USnapGridFlowQuery* Query, FRandomStream const& RandomStream, FTransform& Offset); \
+ \
+	DECLARE_FUNCTION(execGetNodeOffset);
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetNodeOffset);
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_EVENT_PARMS \
+	struct SnapGridFlowTransformLogic_eventGetNodeOffset_Parms \
+	{ \
+		USnapGridFlowModel* Model; \
+		USnapGridFlowConfig* Config; \
+		USnapGridFlowQuery* Query; \
+		FRandomStream RandomStream; \
+		FTransform Offset; \
+	};
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_CALLBACK_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowTransformLogic(); \
+	friend struct Z_Construct_UClass_USnapGridFlowTransformLogic_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowTransformLogic, UDungeonTransformLogic, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowTransformLogic)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_INCLASS \
+private: \
+	static void StaticRegisterNativesUSnapGridFlowTransformLogic(); \
+	friend struct Z_Construct_UClass_USnapGridFlowTransformLogic_Statics; \
+public: \
+	DECLARE_CLASS(USnapGridFlowTransformLogic, UDungeonTransformLogic, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(USnapGridFlowTransformLogic)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowTransformLogic(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowTransformLogic) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowTransformLogic); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowTransformLogic); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowTransformLogic(USnapGridFlowTransformLogic&&); \
+	NO_API USnapGridFlowTransformLogic(const USnapGridFlowTransformLogic&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API USnapGridFlowTransformLogic(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API USnapGridFlowTransformLogic(USnapGridFlowTransformLogic&&); \
+	NO_API USnapGridFlowTransformLogic(const USnapGridFlowTransformLogic&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USnapGridFlowTransformLogic); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USnapGridFlowTransformLogic); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USnapGridFlowTransformLogic)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_209_PROLOG \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_EVENT_PARMS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_CALLBACK_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_CALLBACK_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h_211_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class USnapGridFlowTransformLogic>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Builders_SnapGridFlow_SnapGridFlowDungeon_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
