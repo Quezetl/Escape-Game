@@ -12,6 +12,7 @@
 				"Engine",
 				"GameplayAbilities"
 			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -29,6 +30,11 @@
 		},
 		{
 			"Name": "GameplayAbilities",
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamSockets",
 			"Enabled": true
 		}
 	]
