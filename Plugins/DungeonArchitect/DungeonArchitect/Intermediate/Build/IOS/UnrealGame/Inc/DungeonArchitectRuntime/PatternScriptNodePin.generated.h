@@ -1,0 +1,246 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DUNGEONARCHITECTRUNTIME_PatternScriptNodePin_generated_h
+#error "PatternScriptNodePin.generated.h already included, missing '#pragma once' in PatternScriptNodePin.h"
+#endif
+#define DUNGEONARCHITECTRUNTIME_PatternScriptNodePin_generated_h
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNodePin(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNodePin_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNodePin, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNodePin)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_INCLASS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNodePin(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNodePin_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNodePin, UObject, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNodePin)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNodePin(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNodePin) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNodePin); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNodePin); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternScriptNodePin(UMGPatternScriptNodePin&&); \
+	NO_API UMGPatternScriptNodePin(const UMGPatternScriptNodePin&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNodePin(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternScriptNodePin(UMGPatternScriptNodePin&&); \
+	NO_API UMGPatternScriptNodePin(const UMGPatternScriptNodePin&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNodePin); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNodePin); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNodePin)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_22_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_24_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNodePin>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNodePinExec(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNodePinExec_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNodePinExec, UMGPatternScriptNodePin, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNodePinExec)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_INCLASS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNodePinExec(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNodePinExec_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNodePinExec, UMGPatternScriptNodePin, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNodePinExec)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNodePinExec(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNodePinExec) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNodePinExec); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNodePinExec); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternScriptNodePinExec(UMGPatternScriptNodePinExec&&); \
+	NO_API UMGPatternScriptNodePinExec(const UMGPatternScriptNodePinExec&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternScriptNodePinExec(UMGPatternScriptNodePinExec&&); \
+	NO_API UMGPatternScriptNodePinExec(const UMGPatternScriptNodePinExec&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNodePinExec); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNodePinExec); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMGPatternScriptNodePinExec)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_59_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_61_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNodePinExec>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNodePinBool(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNodePinBool_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNodePinBool, UMGPatternScriptNodePin, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNodePinBool)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_INCLASS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNodePinBool(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNodePinBool_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNodePinBool, UMGPatternScriptNodePin, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNodePinBool)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNodePinBool(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNodePinBool) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNodePinBool); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNodePinBool); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternScriptNodePinBool(UMGPatternScriptNodePinBool&&); \
+	NO_API UMGPatternScriptNodePinBool(const UMGPatternScriptNodePinBool&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternScriptNodePinBool(UMGPatternScriptNodePinBool&&); \
+	NO_API UMGPatternScriptNodePinBool(const UMGPatternScriptNodePinBool&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNodePinBool); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNodePinBool); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UMGPatternScriptNodePinBool)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_67_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h_69_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNodePinBool>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_PatternScriptNodePin_h
+
+
+#define FOREACH_ENUM_EMGPATTERNSCRIPTPINDIRECTION(op) \
+	op(EMGPatternScriptPinDirection::Input) \
+	op(EMGPatternScriptPinDirection::Output) 
+
+enum class EMGPatternScriptPinDirection : uint8;
+template<> DUNGEONARCHITECTRUNTIME_API UEnum* StaticEnum<EMGPatternScriptPinDirection>();
+
+#define FOREACH_ENUM_EMGPATTERNSCRIPTPINCONNECTIVITYCONSTRAINT(op) \
+	op(EMGPatternScriptPinConnectivityConstraint::Mandatory) \
+	op(EMGPatternScriptPinConnectivityConstraint::Optional) 
+
+enum class EMGPatternScriptPinConnectivityConstraint : uint8;
+template<> DUNGEONARCHITECTRUNTIME_API UEnum* StaticEnum<EMGPatternScriptPinConnectivityConstraint>();
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
