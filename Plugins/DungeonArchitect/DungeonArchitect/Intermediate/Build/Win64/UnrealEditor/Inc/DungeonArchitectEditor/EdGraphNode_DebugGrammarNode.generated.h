@@ -1,0 +1,164 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DUNGEONARCHITECTEDITOR_EdGraphNode_DebugGrammarNode_generated_h
+#error "EdGraphNode_DebugGrammarNode.generated.h already included, missing '#pragma once' in EdGraphNode_DebugGrammarNode.h"
+#endif
+#define DUNGEONARCHITECTEDITOR_EdGraphNode_DebugGrammarNode_generated_h
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUEdGraphNode_DebugGrammarNode(); \
+	friend struct Z_Construct_UClass_UEdGraphNode_DebugGrammarNode_Statics; \
+public: \
+	DECLARE_CLASS(UEdGraphNode_DebugGrammarNode, UEdGraphNode_GrammarNode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UEdGraphNode_DebugGrammarNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_INCLASS \
+private: \
+	static void StaticRegisterNativesUEdGraphNode_DebugGrammarNode(); \
+	friend struct Z_Construct_UClass_UEdGraphNode_DebugGrammarNode_Statics; \
+public: \
+	DECLARE_CLASS(UEdGraphNode_DebugGrammarNode, UEdGraphNode_GrammarNode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UEdGraphNode_DebugGrammarNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UEdGraphNode_DebugGrammarNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEdGraphNode_DebugGrammarNode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEdGraphNode_DebugGrammarNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEdGraphNode_DebugGrammarNode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UEdGraphNode_DebugGrammarNode(UEdGraphNode_DebugGrammarNode&&); \
+	NO_API UEdGraphNode_DebugGrammarNode(const UEdGraphNode_DebugGrammarNode&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UEdGraphNode_DebugGrammarNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UEdGraphNode_DebugGrammarNode(UEdGraphNode_DebugGrammarNode&&); \
+	NO_API UEdGraphNode_DebugGrammarNode(const UEdGraphNode_DebugGrammarNode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEdGraphNode_DebugGrammarNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEdGraphNode_DebugGrammarNode); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEdGraphNode_DebugGrammarNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_9_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_11_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class EdGraphNode_DebugGrammarNode."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class UEdGraphNode_DebugGrammarNode>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUEdGraphNode_DebugGrammarDoorNode(); \
+	friend struct Z_Construct_UClass_UEdGraphNode_DebugGrammarDoorNode_Statics; \
+public: \
+	DECLARE_CLASS(UEdGraphNode_DebugGrammarDoorNode, UEdGraphNode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UEdGraphNode_DebugGrammarDoorNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_INCLASS \
+private: \
+	static void StaticRegisterNativesUEdGraphNode_DebugGrammarDoorNode(); \
+	friend struct Z_Construct_UClass_UEdGraphNode_DebugGrammarDoorNode_Statics; \
+public: \
+	DECLARE_CLASS(UEdGraphNode_DebugGrammarDoorNode, UEdGraphNode, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UEdGraphNode_DebugGrammarDoorNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UEdGraphNode_DebugGrammarDoorNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEdGraphNode_DebugGrammarDoorNode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEdGraphNode_DebugGrammarDoorNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEdGraphNode_DebugGrammarDoorNode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UEdGraphNode_DebugGrammarDoorNode(UEdGraphNode_DebugGrammarDoorNode&&); \
+	NO_API UEdGraphNode_DebugGrammarDoorNode(const UEdGraphNode_DebugGrammarDoorNode&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UEdGraphNode_DebugGrammarDoorNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UEdGraphNode_DebugGrammarDoorNode(UEdGraphNode_DebugGrammarDoorNode&&); \
+	NO_API UEdGraphNode_DebugGrammarDoorNode(const UEdGraphNode_DebugGrammarDoorNode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UEdGraphNode_DebugGrammarDoorNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UEdGraphNode_DebugGrammarDoorNode); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UEdGraphNode_DebugGrammarDoorNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_31_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h_33_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class UEdGraphNode_DebugGrammarDoorNode>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Frameworks_GraphGrammar_RuleGraph_Debugging_EdGraphNode_DebugGrammarNode_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

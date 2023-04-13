@@ -1,0 +1,236 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DUNGEONARCHITECTEDITOR_PatternGraphNode_generated_h
+#error "PatternGraphNode.generated.h already included, missing '#pragma once' in PatternGraphNode.h"
+#endif
+#define DUNGEONARCHITECTEDITOR_PatternGraphNode_generated_h
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternGraphNode(); \
+	friend struct Z_Construct_UClass_UMGPatternGraphNode_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternGraphNode, UEdGraphNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternGraphNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_INCLASS \
+private: \
+	static void StaticRegisterNativesUMGPatternGraphNode(); \
+	friend struct Z_Construct_UClass_UMGPatternGraphNode_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternGraphNode, UEdGraphNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternGraphNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternGraphNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternGraphNode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternGraphNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternGraphNode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternGraphNode(UMGPatternGraphNode&&); \
+	NO_API UMGPatternGraphNode(const UMGPatternGraphNode&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternGraphNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternGraphNode(UMGPatternGraphNode&&); \
+	NO_API UMGPatternGraphNode(const UMGPatternGraphNode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternGraphNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternGraphNode); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternGraphNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_9_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_11_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class UMGPatternGraphNode>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternGraphConditionNode(); \
+	friend struct Z_Construct_UClass_UMGPatternGraphConditionNode_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternGraphConditionNode, UMGPatternGraphNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternGraphConditionNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_INCLASS \
+private: \
+	static void StaticRegisterNativesUMGPatternGraphConditionNode(); \
+	friend struct Z_Construct_UClass_UMGPatternGraphConditionNode_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternGraphConditionNode, UMGPatternGraphNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternGraphConditionNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternGraphConditionNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternGraphConditionNode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternGraphConditionNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternGraphConditionNode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternGraphConditionNode(UMGPatternGraphConditionNode&&); \
+	NO_API UMGPatternGraphConditionNode(const UMGPatternGraphConditionNode&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternGraphConditionNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternGraphConditionNode(UMGPatternGraphConditionNode&&); \
+	NO_API UMGPatternGraphConditionNode(const UMGPatternGraphConditionNode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternGraphConditionNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternGraphConditionNode); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternGraphConditionNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_26_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_28_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class UMGPatternGraphConditionNode>();
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_SPARSE_DATA
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_RPC_WRAPPERS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternGraphActionNode(); \
+	friend struct Z_Construct_UClass_UMGPatternGraphActionNode_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternGraphActionNode, UMGPatternGraphNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternGraphActionNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_INCLASS \
+private: \
+	static void StaticRegisterNativesUMGPatternGraphActionNode(); \
+	friend struct Z_Construct_UClass_UMGPatternGraphActionNode_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternGraphActionNode, UMGPatternGraphNode, COMPILED_IN_FLAGS(CLASS_Abstract), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternGraphActionNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternGraphActionNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternGraphActionNode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternGraphActionNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternGraphActionNode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternGraphActionNode(UMGPatternGraphActionNode&&); \
+	NO_API UMGPatternGraphActionNode(const UMGPatternGraphActionNode&); \
+public:
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternGraphActionNode(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UMGPatternGraphActionNode(UMGPatternGraphActionNode&&); \
+	NO_API UMGPatternGraphActionNode(const UMGPatternGraphActionNode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternGraphActionNode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternGraphActionNode); \
+	DEFINE_ABSTRACT_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternGraphActionNode)
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_32_PROLOG
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_RPC_WRAPPERS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_INCLASS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_SPARSE_DATA \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h_34_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class UMGPatternGraphActionNode>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternGraph_PatternGraphNode_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -1,0 +1,118 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "DungeonArchitectRuntime/Public/Frameworks/FlowImpl/GridFlow/LayoutGraph/Tasks/GridFlowLayoutTaskCreateKeyLock.h"
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeGridFlowLayoutTaskCreateKeyLock() {}
+// Cross Module References
+	DUNGEONARCHITECTRUNTIME_API UClass* Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_NoRegister();
+	DUNGEONARCHITECTRUNTIME_API UClass* Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock();
+	DUNGEONARCHITECTRUNTIME_API UClass* Z_Construct_UClass_UBaseFlowLayoutTaskCreateKeyLock();
+	UPackage* Z_Construct_UPackage__Script_DungeonArchitectRuntime();
+	DUNGEONARCHITECTRUNTIME_API UScriptStruct* Z_Construct_UScriptStruct_FGridFlowTilemapItemPlacementSettings();
+// End Cross Module References
+	void UGridFlowLayoutTaskCreateKeyLock::StaticRegisterNativesUGridFlowLayoutTaskCreateKeyLock()
+	{
+	}
+	IMPLEMENT_CLASS_NO_AUTO_REGISTRATION(UGridFlowLayoutTaskCreateKeyLock);
+	UClass* Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_NoRegister()
+	{
+		return UGridFlowLayoutTaskCreateKeyLock::StaticClass();
+	}
+	struct Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics
+	{
+		static UObject* (*const DependentSingletons[])();
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
+#endif
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_KeyPlacement_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_KeyPlacement;
+#if WITH_METADATA
+		static const UECodeGen_Private::FMetaDataPairParam NewProp_LockPlacement_MetaData[];
+#endif
+		static const UECodeGen_Private::FStructPropertyParams NewProp_LockPlacement;
+		static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
+		static const UECodeGen_Private::FClassParams ClassParams;
+	};
+	UObject* (*const Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::DependentSingletons[])() = {
+		(UObject* (*)())Z_Construct_UClass_UBaseFlowLayoutTaskCreateKeyLock,
+		(UObject* (*)())Z_Construct_UPackage__Script_DungeonArchitectRuntime,
+	};
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::Class_MetaDataParams[] = {
+		{ "AbstractTask", "" },
+		{ "IncludePath", "Frameworks/FlowImpl/GridFlow/LayoutGraph/Tasks/GridFlowLayoutTaskCreateKeyLock.h" },
+		{ "MenuPriority", "1400" },
+		{ "ModuleRelativePath", "Public/Frameworks/FlowImpl/GridFlow/LayoutGraph/Tasks/GridFlowLayoutTaskCreateKeyLock.h" },
+		{ "Title", "Create Key/Lock" },
+		{ "Tooltip", "Creates a Key/Lock along a path" },
+	};
+#endif
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_KeyPlacement_MetaData[] = {
+		{ "Category", "Spawn Items" },
+		{ "ModuleRelativePath", "Public/Frameworks/FlowImpl/GridFlow/LayoutGraph/Tasks/GridFlowLayoutTaskCreateKeyLock.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_KeyPlacement = { "KeyPlacement", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UGridFlowLayoutTaskCreateKeyLock, KeyPlacement), Z_Construct_UScriptStruct_FGridFlowTilemapItemPlacementSettings, METADATA_PARAMS(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_KeyPlacement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_KeyPlacement_MetaData)) }; // 2906296440
+#if WITH_METADATA
+	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_LockPlacement_MetaData[] = {
+		{ "Category", "Spawn Items" },
+		{ "ModuleRelativePath", "Public/Frameworks/FlowImpl/GridFlow/LayoutGraph/Tasks/GridFlowLayoutTaskCreateKeyLock.h" },
+	};
+#endif
+	const UECodeGen_Private::FStructPropertyParams Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_LockPlacement = { "LockPlacement", nullptr, (EPropertyFlags)0x0010000000000001, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UGridFlowLayoutTaskCreateKeyLock, LockPlacement), Z_Construct_UScriptStruct_FGridFlowTilemapItemPlacementSettings, METADATA_PARAMS(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_LockPlacement_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_LockPlacement_MetaData)) }; // 2906296440
+	const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::PropPointers[] = {
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_KeyPlacement,
+		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::NewProp_LockPlacement,
+	};
+	const FCppClassTypeInfoStatic Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::StaticCppClassTypeInfo = {
+		TCppClassTypeTraits<UGridFlowLayoutTaskCreateKeyLock>::IsAbstract,
+	};
+	const UECodeGen_Private::FClassParams Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::ClassParams = {
+		&UGridFlowLayoutTaskCreateKeyLock::StaticClass,
+		nullptr,
+		&StaticCppClassTypeInfo,
+		DependentSingletons,
+		nullptr,
+		Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::PropPointers,
+		nullptr,
+		UE_ARRAY_COUNT(DependentSingletons),
+		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::PropPointers),
+		0,
+		0x001000A0u,
+		METADATA_PARAMS(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::Class_MetaDataParams))
+	};
+	UClass* Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock()
+	{
+		if (!Z_Registration_Info_UClass_UGridFlowLayoutTaskCreateKeyLock.OuterSingleton)
+		{
+			UECodeGen_Private::ConstructUClass(Z_Registration_Info_UClass_UGridFlowLayoutTaskCreateKeyLock.OuterSingleton, Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock_Statics::ClassParams);
+		}
+		return Z_Registration_Info_UClass_UGridFlowLayoutTaskCreateKeyLock.OuterSingleton;
+	}
+	template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<UGridFlowLayoutTaskCreateKeyLock>()
+	{
+		return UGridFlowLayoutTaskCreateKeyLock::StaticClass();
+	}
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UGridFlowLayoutTaskCreateKeyLock);
+	struct Z_CompiledInDeferFile_FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_FlowImpl_GridFlow_LayoutGraph_Tasks_GridFlowLayoutTaskCreateKeyLock_h_Statics
+	{
+		static const FClassRegisterCompiledInInfo ClassInfo[];
+	};
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_FlowImpl_GridFlow_LayoutGraph_Tasks_GridFlowLayoutTaskCreateKeyLock_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UGridFlowLayoutTaskCreateKeyLock, UGridFlowLayoutTaskCreateKeyLock::StaticClass, TEXT("UGridFlowLayoutTaskCreateKeyLock"), &Z_Registration_Info_UClass_UGridFlowLayoutTaskCreateKeyLock, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGridFlowLayoutTaskCreateKeyLock), 1173928190U) },
+	};
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_FlowImpl_GridFlow_LayoutGraph_Tasks_GridFlowLayoutTaskCreateKeyLock_h_3402429203(TEXT("/Script/DungeonArchitectRuntime"),
+		Z_CompiledInDeferFile_FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_FlowImpl_GridFlow_LayoutGraph_Tasks_GridFlowLayoutTaskCreateKeyLock_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_FlowImpl_GridFlow_LayoutGraph_Tasks_GridFlowLayoutTaskCreateKeyLock_h_Statics::ClassInfo),
+		nullptr, 0,
+		nullptr, 0);
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

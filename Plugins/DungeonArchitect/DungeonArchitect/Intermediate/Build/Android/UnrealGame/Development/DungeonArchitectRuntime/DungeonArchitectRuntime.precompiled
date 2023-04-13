@@ -1,0 +1,15 @@
+{
+	"OutputFiles": [
+		"Module.DungeonArchitectRuntime.1_of_3.cppa8.o",
+		"Module.DungeonArchitectRuntime.2_of_3.cppa8.o",
+		"Module.DungeonArchitectRuntime.3_of_3.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.1_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.2_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.3_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.4_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.5_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.6_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.7_of_8.cppa8.o",
+		"Module.DungeonArchitectRuntime.gen.8_of_8.cppa8.o"
+	]
+}
