@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"DungeonArchitectEditor": "UnrealEditor-DungeonArchitectEditor.dylib",
+		"DungeonArchitectRuntime": "UnrealEditor-DungeonArchitectRuntime.dylib"
+	}
+}
