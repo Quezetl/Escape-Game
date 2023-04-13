@@ -12,7 +12,6 @@
 				"Engine",
 				"GameplayAbilities"
 			]
-			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -36,7 +35,12 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
 			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
