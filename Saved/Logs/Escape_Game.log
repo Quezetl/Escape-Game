@@ -11793,3 +11793,1702 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.14-19.40.49:729][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
 [2023.04.14-19.40.51:236][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
 [2023.04.14-19.40.52:370][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.14-19.41.46:183][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.41.46:194][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.41.46:194][839]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:41:46 AM)
+[2023.04.14-19.41.46:223][839]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.41.46:227][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003466s)
+[2023.04.14-19.41.46:227][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003562s)
+[2023.04.14-19.41.46:227][839]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.41.46:227][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.41.46:228][839]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.41.46:228][839]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2023.04.14-19.41.46:377][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2023.04.14-19.41.46:380][839]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.41.46:380][839]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.41.46:380][839]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.41.46:381][839]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.41.46:381][839]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.41.46:381][839]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.41.46:383][839]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.41.46:413][839]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.41.46:413][839]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.41.46:413][839]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.41.46:413][839]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.41.46:414][839]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2023.04.14-19.41.46:414][839]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2023.04.14-19.41.46:415][839]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2023.04.14-19.41.46:415][839]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2023.04.14-19.41.46:415][839]LogInit: FAudioDevice initialized.
+[2023.04.14-19.41.46:415][839]LogAudio: Display: Audio Device (ID: 93) registered with world 'EgyptEnemies'.
+[2023.04.14-19.41.46:432][839]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.41.46:447][839]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.41.46
+[2023.04.14-19.41.46:448][839]LogWorld: Bringing up level for play took: 0.015584
+[2023.04.14-19.41.46:449][839]LogOnline: OSS: Created online subsystem instance for: :Context_185
+[2023.04.14-19.41.46:450][839]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.41.46:451][839]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.41.46:451][839]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:452][839]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.41.46:457][839]PIE: Server logged in
+[2023.04.14-19.41.46:458][839]PIE: Play in editor total start time 0.265 seconds.
+[2023.04.14-19.41.48:525][997]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.14-19.41.48:863][ 23]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.41.50:342][144]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.51:477][240]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.51:538][245]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.41.52:617][337]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.53:750][430]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.54:118][460]LogBlueprintUserMessages: [BP_Rift_C_2] Damage: 250
+[2023.04.14-19.41.54:214][468]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.41.54:878][524]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.56:019][616]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.56:564][660]LogBlueprintUserMessages: [BP_Rift_C_3] Damage: 250
+[2023.04.14-19.41.57:160][711]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.58:300][805]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.41.59:435][895]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.42.07:154][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.42.07:154][696]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.42.07:154][696]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.42.07:155][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.42.07:177][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.42.07:191][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.42.07:341][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-19.42.07:342][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.04.14-19.42.07:343][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2023.04.14-19.42.07:346][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.42.07:353][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.04.14-19.42.07:404][697]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2023.04.14-19.42.40:127][840]BlueprintLog: New page: Compile ABP_Raijin
+[2023.04.14-19.42.40:348][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.04.14-19.42.44:522][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/ABP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/ABP_Raijin.uasset" SILENT=true
+[2023.04.14-19.42.44:559][ 74]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/ABP_Raijin
+[2023.04.14-19.42.44:559][ 74]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/ABP_RaijinBC57C70C4E62FADF3D01E29D20DD8012.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/ABP_Raijin.uasset'
+[2023.04.14-19.42.44:582][ 74]AssetCheck: New page: Asset Save: ABP_Raijin
+[2023.04.14-19.42.44:582][ 74]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/ABP_Raijin.ABP_Raijin
+[2023.04.14-19.44.28:983][157]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.44.29:273][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.04.14-19.45.53:384][907]LogEditorTransaction: Undo Rename Node
+[2023.04.14-19.45.53:931][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.45.53:937][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.45.53:968][907]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.45.55:112][980]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.04.14-19.45.55:606][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.45.55:609][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.45.55:614][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.45.59:758][319]BlueprintLog: New page: Collapse to Function
+[2023.04.14-19.46.01:636][479]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.04.14-19.46.02:171][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.46.02:174][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.46.02:180][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.46.38:425][295]BlueprintLog: New page: Collapse to Macro
+[2023.04.14-19.46.40:987][547]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2023.04.14-19.46.41:481][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.46.41:491][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_87:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.46.41:518][547]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-19.48.37:683][268]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.48.37:965][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2023.04.14-19.48.39:014][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-19.48.39:037][353]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-19.48.39:038][353]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinE62ED0E1410429C730D7088D9E73B9C1.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-19.48.39:067][353]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-19.48.39:067][353]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-19.48.40:912][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.48.40:924][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.48.40:924][524]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:48:40 AM)
+[2023.04.14-19.48.40:924][524]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.48.40:928][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003591s)
+[2023.04.14-19.48.40:928][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003661s)
+[2023.04.14-19.48.40:928][524]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.48.40:928][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.48.40:928][524]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.48.40:929][524]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2023.04.14-19.48.41:070][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.04.14-19.48.41:075][524]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.48.41:075][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.48.41:075][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.48.41:077][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.48.41:077][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.48.41:077][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.48.41:079][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.48.41:107][524]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.48.41:108][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.48.41:108][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.48.41:108][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.48.41:109][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2023.04.14-19.48.41:109][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2023.04.14-19.48.41:112][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2023.04.14-19.48.41:112][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2023.04.14-19.48.41:112][524]LogInit: FAudioDevice initialized.
+[2023.04.14-19.48.41:112][524]LogAudio: Display: Audio Device (ID: 94) registered with world 'EgyptEnemies'.
+[2023.04.14-19.48.41:125][524]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.48.41:137][524]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.48.41
+[2023.04.14-19.48.41:137][524]LogWorld: Bringing up level for play took: 0.012541
+[2023.04.14-19.48.41:140][524]LogOnline: OSS: Created online subsystem instance for: :Context_186
+[2023.04.14-19.48.41:141][524]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.48.41:141][524]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.48.41:141][524]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:142][524]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.48.41:187][524]PIE: Server logged in
+[2023.04.14-19.48.41:188][524]PIE: Play in editor total start time 0.264 seconds.
+[2023.04.14-19.48.43:263][698]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.14-19.48.45:012][847]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.46:147][945]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.47:306][ 20]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.47:621][ 46]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.48.48:444][111]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.48:882][145]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.48.49:583][200]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.49:987][235]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.48.50:717][297]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.51:850][390]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.48.51:924][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.48.51:924][394]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.48.51:924][394]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.48.51:925][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.48.51:970][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.48.51:985][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.48.52:126][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-19.48.52:127][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2023.04.14-19.48.52:128][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2023.04.14-19.48.52:132][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.48.52:137][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.04.14-19.48.52:192][395]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2023.04.14-19.49.05:549][489]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.49.05:781][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.04.14-19.49.06:431][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-19.49.06:464][528]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-19.49.06:464][528]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_Raijin8461A4C84148337CA686ACB104BA7626.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-19.49.06:489][528]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-19.49.06:489][528]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-19.49.07:961][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.49.07:971][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.49.07:971][649]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:49:07 AM)
+[2023.04.14-19.49.07:993][649]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.49.07:998][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003853s)
+[2023.04.14-19.49.07:998][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003956s)
+[2023.04.14-19.49.07:998][649]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.49.07:998][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.49.07:998][649]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.49.07:999][649]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2023.04.14-19.49.08:142][649]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2023.04.14-19.49.08:147][649]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.49.08:147][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.49.08:147][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.49.08:148][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.49.08:148][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.49.08:148][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.49.08:149][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.49.08:176][649]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.49.08:176][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.49.08:176][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.49.08:176][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.49.08:177][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2023.04.14-19.49.08:177][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2023.04.14-19.49.08:179][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2023.04.14-19.49.08:179][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2023.04.14-19.49.08:179][649]LogInit: FAudioDevice initialized.
+[2023.04.14-19.49.08:179][649]LogAudio: Display: Audio Device (ID: 95) registered with world 'EgyptEnemies'.
+[2023.04.14-19.49.08:191][649]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.49.08:207][649]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.49.08
+[2023.04.14-19.49.08:208][649]LogWorld: Bringing up level for play took: 0.016985
+[2023.04.14-19.49.08:210][649]LogOnline: OSS: Created online subsystem instance for: :Context_187
+[2023.04.14-19.49.08:211][649]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.49.08:211][649]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.49.08:211][649]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:212][649]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.49.08:217][649]PIE: Server logged in
+[2023.04.14-19.49.08:218][649]PIE: Play in editor total start time 0.247 seconds.
+[2023.04.14-19.49.10:315][775]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.14-19.49.13:613][988]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.13:652][991]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.49.14:755][ 72]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.15:905][157]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.16:285][185]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.49.17:044][235]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.17:485][269]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.49.18:177][316]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.19:194][383]LogBlueprintUserMessages: [BP_Rift_C_2] Damage: 250
+[2023.04.14-19.49.19:324][393]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.20:473][477]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.21:626][560]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.21:796][572]LogBlueprintUserMessages: [BP_Rift_C_3] Damage: 250
+[2023.04.14-19.49.22:761][641]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.23:909][725]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.49.24:499][768]LogBlueprintUserMessages: [RJGA_MeteorAttack_C_0] Meteor Attack
+[2023.04.14-19.49.24:795][789]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2023.04.14-19.49.24:795][789]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2023.04.14-19.49.40:054][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.49.40:054][250]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.49.40:054][250]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.49.40:055][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.49.40:108][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.49.40:123][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.49.40:280][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.49.40:281][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2023.04.14-19.49.40:283][250]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2023.04.14-19.49.40:293][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.04.14-19.49.40:395][251]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2023.04.14-19.50.44:932][ 23]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.50.45:195][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.04.14-19.50.47:038][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.50.47:048][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.50.47:048][171]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:50:47 AM)
+[2023.04.14-19.50.47:048][171]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.50.47:052][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004533s)
+[2023.04.14-19.50.47:052][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.004626s)
+[2023.04.14-19.50.47:052][171]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.50.47:052][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.50.47:053][171]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.50.47:053][171]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2023.04.14-19.50.47:195][171]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.04.14-19.50.47:200][171]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.50.47:200][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.50.47:200][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.50.47:201][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.50.47:201][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.50.47:201][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.50.47:203][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.50.47:232][171]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.50.47:232][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.50.47:232][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.50.47:232][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.50.47:233][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2023.04.14-19.50.47:233][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2023.04.14-19.50.47:244][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2023.04.14-19.50.47:244][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2023.04.14-19.50.47:244][171]LogInit: FAudioDevice initialized.
+[2023.04.14-19.50.47:244][171]LogAudio: Display: Audio Device (ID: 96) registered with world 'EgyptEnemies'.
+[2023.04.14-19.50.47:255][171]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.50.47:266][171]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.50.47
+[2023.04.14-19.50.47:267][171]LogWorld: Bringing up level for play took: 0.011621
+[2023.04.14-19.50.47:269][171]LogOnline: OSS: Created online subsystem instance for: :Context_188
+[2023.04.14-19.50.47:269][171]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.50.47:270][171]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.50.47:270][171]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:271][171]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.50.47:275][171]PIE: Server logged in
+[2023.04.14-19.50.47:276][171]PIE: Play in editor total start time 0.228 seconds.
+[2023.04.14-19.50.47:277][171]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:349][172]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:360][173]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:371][174]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:383][175]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:394][176]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:405][177]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:416][178]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:428][179]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:441][180]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:452][181]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:464][182]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:475][183]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:487][184]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:499][185]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:510][186]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:520][187]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:530][188]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:541][189]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:552][190]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:565][191]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:575][192]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:586][193]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:597][194]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:607][195]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:619][196]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:630][197]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:639][198]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:650][199]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:661][200]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:673][201]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:684][202]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:695][203]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:705][204]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:718][205]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:728][206]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:740][207]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:751][208]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:762][209]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:772][210]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:784][211]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:795][212]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:806][213]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:819][214]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:830][215]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:841][216]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:851][217]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:863][218]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:875][219]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:886][220]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:897][221]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:908][222]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:919][223]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:929][224]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:940][225]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:952][226]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:963][227]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:974][228]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:986][229]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.47:999][230]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:010][231]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:021][232]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:033][233]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:046][234]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:059][235]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:070][236]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:080][237]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:094][238]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:106][239]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:117][240]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:128][241]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:141][242]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:152][243]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:163][244]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:174][245]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:185][246]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:196][247]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:208][248]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:220][249]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:231][250]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:243][251]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:255][252]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:267][253]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:277][254]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:290][255]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:301][256]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:313][257]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:324][258]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:338][259]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:351][260]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:361][261]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:373][262]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:384][263]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:396][264]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:407][265]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:417][266]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:428][267]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:441][268]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:453][269]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:464][270]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:478][271]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:490][272]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:501][273]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:513][274]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:525][275]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:539][276]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:551][277]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:562][278]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:572][279]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:585][280]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:598][281]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:611][282]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:623][283]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:633][284]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:645][285]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:660][286]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:673][287]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:685][288]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:697][289]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:709][290]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:722][291]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:735][292]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:747][293]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:761][294]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:773][295]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:787][296]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:799][297]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:811][298]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:823][299]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:836][300]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:847][301]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:861][302]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:873][303]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:888][304]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:900][305]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:911][306]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:922][307]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:934][308]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:946][309]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.50.48:947][309]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:958][310]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:971][311]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:982][312]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.48:993][313]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:007][314]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:018][315]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:028][316]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:042][317]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:054][318]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:066][319]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:077][320]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:092][321]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:105][322]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:115][323]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:126][324]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:137][325]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:149][326]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:160][327]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:171][328]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:182][329]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:193][330]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:205][331]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:216][332]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:226][333]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:238][334]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:250][335]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:262][336]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:274][337]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:285][338]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:298][339]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:311][340]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:324][341]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:338][342]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:352][343]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:366][344]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:378][345]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:393][346]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:407][347]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:420][348]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:433][349]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:446][350]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:459][351]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:474][352]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:487][353]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:500][354]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:513][355]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:526][356]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:539][357]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:554][358]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:566][359]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:580][360]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:590][361]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:603][362]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:615][363]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:627][364]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:640][365]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:652][366]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:664][367]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:676][368]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:688][369]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:701][370]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:712][371]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:723][372]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:736][373]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:747][374]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:759][375]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:772][376]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:784][377]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:794][378]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:809][379]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:819][380]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:831][381]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:843][382]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:855][383]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:866][384]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:878][385]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:890][386]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:901][387]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:912][388]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:924][389]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:938][390]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:950][391]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:961][392]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:971][393]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:984][394]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.49:996][395]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:007][396]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:020][397]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:030][398]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:044][399]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:055][400]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:056][400]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.50:066][401]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:077][402]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:092][403]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:105][404]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:116][405]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:128][406]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:141][407]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:153][408]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:165][409]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:175][410]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:187][411]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:198][412]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:212][413]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:225][414]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:236][415]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:249][416]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:261][417]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:273][418]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:285][419]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:296][420]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:308][421]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:321][422]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:333][423]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:344][424]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:355][425]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:368][426]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:380][427]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:391][428]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:403][429]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:413][430]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:427][431]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:439][432]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:450][433]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:461][434]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:473][435]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:485][436]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:497][437]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:511][438]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:522][439]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:534][440]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:546][441]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:557][442]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:569][443]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:581][444]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:594][445]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:609][446]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:621][447]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:633][448]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:645][449]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:657][450]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:669][451]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:681][452]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:691][453]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:705][454]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:718][455]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:729][456]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:740][457]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:753][458]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:764][459]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:776][460]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:787][461]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:797][462]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:809][463]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:823][464]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:836][465]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:848][466]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:859][467]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:870][468]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:883][469]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:894][470]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:908][471]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:920][472]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:933][473]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:944][474]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:957][475]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:970][476]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:981][477]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.50:995][478]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:007][479]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:018][480]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:030][481]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:043][482]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:056][483]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:069][484]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:082][485]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:093][486]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:106][487]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:118][488]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:129][489]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:141][490]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:152][491]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:164][492]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:176][493]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:189][494]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:190][494]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.51:203][495]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:215][496]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:227][497]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:240][498]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:252][499]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:263][500]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:275][501]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:287][502]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:299][503]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:310][504]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:322][505]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:334][506]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:345][507]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:358][508]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:371][509]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.50.51:371][509]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:385][510]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:396][511]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:407][512]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:419][513]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:430][514]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:441][515]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:451][516]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:465][517]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:478][518]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:492][519]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:506][520]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:518][521]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:528][522]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:540][523]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:552][524]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:565][525]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:577][526]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:587][527]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:599][528]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:611][529]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:623][530]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:634][531]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:646][532]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:657][533]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:669][534]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:680][535]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:691][536]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:703][537]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:714][538]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:726][539]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:737][540]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:749][541]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:761][542]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:771][543]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:783][544]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:794][545]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:806][546]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:818][547]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:829][548]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:841][549]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:852][550]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:863][551]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:874][552]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:886][553]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:898][554]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:909][555]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:921][556]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:933][557]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:944][558]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:956][559]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:967][560]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:979][561]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.51:993][562]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:004][563]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:014][564]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:029][565]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:040][566]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:052][567]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:065][568]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:077][569]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:090][570]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:102][571]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:115][572]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:129][573]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:141][574]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:153][575]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:164][576]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:176][577]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:188][578]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:199][579]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:212][580]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:226][581]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:237][582]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:249][583]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:266][584]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:277][585]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:289][586]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:301][587]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:312][588]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:323][589]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:324][589]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.52:334][590]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:346][591]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:361][592]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:373][593]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:383][594]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:394][595]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:406][596]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:418][597]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:428][598]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:440][599]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:452][600]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:463][601]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:475][602]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:486][603]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:499][604]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:511][605]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:522][606]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:533][607]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:545][608]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:556][609]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:568][610]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:579][611]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:592][612]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:603][613]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:614][614]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:627][615]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:639][616]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:651][617]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:662][618]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:673][619]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:685][620]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:700][621]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:711][622]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:723][623]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:735][624]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:747][625]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:758][626]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:770][627]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:780][628]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:791][629]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:803][630]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:817][631]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:828][632]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:839][633]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:851][634]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:864][635]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:876][636]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:888][637]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:899][638]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:911][639]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:924][640]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:936][641]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:947][642]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:958][643]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:971][644]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:983][645]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.52:995][646]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:006][647]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:019][648]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:030][649]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:042][650]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:053][651]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:065][652]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:077][653]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:090][654]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:102][655]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:114][656]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:126][657]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:137][658]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:148][659]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:160][660]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:171][661]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:183][662]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:194][663]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:205][664]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:217][665]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:229][666]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:240][667]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:251][668]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:263][669]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:275][670]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:287][671]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:297][672]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:308][673]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:319][674]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:330][675]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:343][676]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:355][677]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:368][678]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:378][679]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:389][680]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:401][681]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:412][682]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:425][683]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:436][684]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:446][685]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:458][686]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:459][686]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.53:474][687]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:495][688]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:508][689]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:520][690]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:535][691]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:549][692]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:567][693]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:583][694]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:597][695]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:611][696]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:626][697]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:640][698]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:653][699]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:665][700]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:679][701]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:693][702]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:711][703]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:725][704]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:740][705]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:754][706]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:774][707]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:790][708]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:803][709]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:818][710]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:831][711]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:846][712]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:860][713]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:874][714]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:886][715]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:898][716]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:911][717]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:927][718]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:927][718]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.50.53:938][719]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:949][720]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:961][721]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.53:962][721]LogBlueprintUserMessages: [GA_Projectile_C_0] Hello
+[2023.04.14-19.50.54:174][721]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:174][721]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:174][721]LogBlueprintUserMessages: [FireBreath_C_0] Why Am I Not Taking Damage
+[2023.04.14-19.50.54:174][721]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:217][722]LogBlueprintUserMessages: [BP_Rift_C_2] Damage: 250
+[2023.04.14-19.50.54:218][722]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:249][723]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:414][724]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:414][724]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:428][725]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:439][726]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:497][727]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:525][728]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:538][729]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:538][729]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:551][730]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:551][730]LogBlueprintUserMessages: [FireBreath_C_0] Why Am I Not Taking Damage
+[2023.04.14-19.50.54:561][731]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:574][732]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:589][733]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:601][734]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:602][734]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.54:613][735]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:626][736]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:638][737]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:650][738]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:663][739]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:675][740]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:688][741]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:700][742]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:701][742]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:712][743]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:724][744]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:736][745]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:747][746]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:758][747]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:770][748]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:781][749]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:792][750]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:805][751]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:817][752]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:829][753]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:843][754]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:856][755]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:857][755]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:870][756]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:884][757]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:885][757]LogBlueprintUserMessages: [FireBreath_C_0] Why Am I Not Taking Damage
+[2023.04.14-19.50.54:898][758]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:899][758]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.54:913][759]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:931][760]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:949][761]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:975][762]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.54:996][763]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:016][764]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:016][764]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.55:034][765]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:054][766]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:074][767]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:095][768]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:117][769]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:140][770]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:162][771]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:180][772]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:180][772]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.55:203][773]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:225][774]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:248][775]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:248][775]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.55:271][776]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:296][777]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:321][778]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:321][778]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.55:344][779]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:370][780]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:395][781]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:421][782]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:449][783]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:473][784]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:501][785]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:528][786]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:554][787]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:583][788]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:611][789]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:638][790]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:664][791]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:691][792]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:721][793]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:747][794]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:749][794]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.55:774][795]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:803][796]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:831][797]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:857][798]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:885][799]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:912][800]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:940][801]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:969][802]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.55:996][803]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:024][804]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:053][805]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:083][806]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:109][807]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:136][808]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:166][809]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:194][810]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:223][811]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:252][812]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:280][813]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:310][814]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:339][815]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:371][816]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:400][817]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:429][818]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:458][819]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:489][820]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:518][821]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:549][822]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:580][823]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:609][824]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:641][825]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:671][826]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:703][827]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:733][828]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:733][828]LogBlueprintUserMessages: [FireBreath_C_0] Failed to cast?
+[2023.04.14-19.50.56:764][829]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:795][830]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:823][831]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:854][832]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:885][833]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:917][834]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:919][834]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.56:947][835]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.56:978][836]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:003][837]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:033][838]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:044][839]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:057][840]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:069][841]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:082][842]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:094][843]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:108][844]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:122][845]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:134][846]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:145][847]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:158][848]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:170][849]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:181][850]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:194][851]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:206][852]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:218][853]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:228][854]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:239][855]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:250][856]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:263][857]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:276][858]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:288][859]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:300][860]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:311][861]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:323][862]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:335][863]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:347][864]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:361][865]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:373][866]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:387][867]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:399][868]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:410][869]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:421][870]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:434][871]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:445][872]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:457][873]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:469][874]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:480][875]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:493][876]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:507][877]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:518][878]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:530][879]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:540][880]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:553][881]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:564][882]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:576][883]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:588][884]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:600][885]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:611][886]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:621][887]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:633][888]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:645][889]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:658][890]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:670][891]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:680][892]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:693][893]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:706][894]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:718][895]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:730][896]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:741][897]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:751][898]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:763][899]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:775][900]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:786][901]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:797][902]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:808][903]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:821][904]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:833][905]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:845][906]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:857][907]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:871][908]LogBlueprintUserMessages: [BP_Raijin_C_1] I am not destroyed
+[2023.04.14-19.50.57:885][909]LogBlueprintUserMessages: [BP_Rift_C_3] Damage: 250
+[2023.04.14-19.50.58:092][926]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.50.59:312][ 30]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.51.00:453][131]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.51.00:879][170]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2023.04.14-19.51.00:879][170]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2023.04.14-19.51.08:734][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.51.08:734][ 52]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.51.08:734][ 52]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.51.08:734][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.51.08:783][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.51.08:799][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.51.08:938][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-19.51.08:939][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2023.04.14-19.51.08:941][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2023.04.14-19.51.08:944][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.51.08:950][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.04.14-19.51.09:061][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2023.04.14-19.52.04:780][484]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR
+[2023.04.14-19.52.04:781][484]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponR588AB0F2451BBE3FC88FC580CF9530A0.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.uasset'
+[2023.04.14-19.52.04:808][484]AssetCheck: New page: Asset Save: BP_RaijinWeaponR
+[2023.04.14-19.52.04:808][484]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.BP_RaijinWeaponR
+[2023.04.14-19.52.15:960][683]BlueprintLog: New page: Compile BP_RaijinWeaponR
+[2023.04.14-19.52.16:179][683]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.04.14-19.52.16:609][705]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR
+[2023.04.14-19.52.16:609][705]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponR1BD84DC94006C4DDE52BFDAF57354875.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.uasset'
+[2023.04.14-19.52.16:632][705]AssetCheck: New page: Asset Save: BP_RaijinWeaponR
+[2023.04.14-19.52.16:632][705]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.BP_RaijinWeaponR
+[2023.04.14-19.52.21:377][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-19.52.21:397][171]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-19.52.21:397][171]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_Raijin0C2E97964A01BD055B864C9BB1E2BFB5.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-19.52.21:422][171]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-19.52.21:422][171]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-19.52.32:253][193]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.52.32:504][193]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2023.04.14-19.52.32:904][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-19.52.32:921][205]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-19.52.32:922][205]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_Raijin02694F3042F9F4CCB4E6F0918DC0DB0D.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-19.52.32:953][205]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-19.52.32:953][205]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-19.52.34:961][386]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.52.34:972][386]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.52.34:972][386]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:52:34 AM)
+[2023.04.14-19.52.34:972][386]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.52.34:976][386]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003682s)
+[2023.04.14-19.52.34:976][386]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003761s)
+[2023.04.14-19.52.34:976][386]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.52.34:976][386]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.52.34:977][386]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.52.34:977][386]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2023.04.14-19.52.35:125][386]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2023.04.14-19.52.35:130][386]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.52.35:130][386]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.52.35:130][386]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.52.35:131][386]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.52.35:131][386]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.52.35:131][386]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.52.35:132][386]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.52.35:160][386]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.52.35:160][386]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.52.35:160][386]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.52.35:160][386]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.52.35:161][386]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2023.04.14-19.52.35:161][386]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2023.04.14-19.52.35:162][386]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2023.04.14-19.52.35:162][386]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2023.04.14-19.52.35:162][386]LogInit: FAudioDevice initialized.
+[2023.04.14-19.52.35:162][386]LogAudio: Display: Audio Device (ID: 97) registered with world 'EgyptEnemies'.
+[2023.04.14-19.52.35:176][386]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.52.35:189][386]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.52.35
+[2023.04.14-19.52.35:189][386]LogWorld: Bringing up level for play took: 0.013077
+[2023.04.14-19.52.35:191][386]LogOnline: OSS: Created online subsystem instance for: :Context_189
+[2023.04.14-19.52.35:192][386]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.52.35:192][386]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.52.35:192][386]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:193][386]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.52.35:197][386]PIE: Server logged in
+[2023.04.14-19.52.35:198][386]PIE: Play in editor total start time 0.226 seconds.
+[2023.04.14-19.52.37:307][565]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonGideon/Characters/Heroes/Gideon/Animations/LevelStart_Montage.LevelStart_Montage'
+[2023.04.14-19.52.37:517][584]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.52.37:628][594]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.38:769][695]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.39:899][794]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.40:074][810]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.52.41:029][895]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.41:500][936]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.52.42:166][993]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.42:806][ 46]LogBlueprintUserMessages: [BP_Rift_C_2] Damage: 250
+[2023.04.14-19.52.43:310][ 89]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.44:446][189]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.45:584][276]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.45:729][289]LogBlueprintUserMessages: [BP_Rift_C_3] Damage: 250
+[2023.04.14-19.52.46:726][379]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.47:857][482]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.52.48:519][541]LogBlueprintUserMessages: [RJGA_MeteorAttack_C_0] Meteor Attack
+[2023.04.14-19.52.57:114][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.52.57:114][493]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.52.57:114][493]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.52.57:114][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.52.57:151][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.52.57:165][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.52.57:298][493]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-19.52.57:298][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2023.04.14-19.52.57:299][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2023.04.14-19.52.57:303][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.52.57:309][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.04.14-19.52.57:466][494]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2023.04.14-19.53.15:593][440]BlueprintLog: New page: Compile BP_RaijinWeaponR
+[2023.04.14-19.53.15:842][440]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.04.14-19.53.16:128][451]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR
+[2023.04.14-19.53.16:128][451]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponRE384F3084C2531F74146A1B48E99A4AE.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.uasset'
+[2023.04.14-19.53.16:157][451]AssetCheck: New page: Asset Save: BP_RaijinWeaponR
+[2023.04.14-19.53.16:157][451]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.BP_RaijinWeaponR
+[2023.04.14-19.53.16:313][460]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR
+[2023.04.14-19.53.16:313][460]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponR17BF1BB2451618852430C2A8B6A4A409.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.uasset'
+[2023.04.14-19.53.16:350][460]AssetCheck: New page: Asset Save: BP_RaijinWeaponR
+[2023.04.14-19.53.16:350][460]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponR.BP_RaijinWeaponR
+[2023.04.14-19.53.17:358][536]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.53.17:369][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.53.17:369][536]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:53:17 AM)
+[2023.04.14-19.53.17:403][536]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.53.17:407][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003532s)
+[2023.04.14-19.53.17:407][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003626s)
+[2023.04.14-19.53.17:407][536]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.53.17:408][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.53.17:408][536]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.53.17:408][536]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2023.04.14-19.53.17:549][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.04.14-19.53.17:554][536]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.53.17:554][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.53.17:554][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.53.17:554][536]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.53.17:554][536]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.53.17:554][536]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.53.17:556][536]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.53.17:583][536]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.53.17:583][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.53.17:583][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.53.17:583][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.53.17:583][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2023.04.14-19.53.17:583][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2023.04.14-19.53.17:586][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2023.04.14-19.53.17:586][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2023.04.14-19.53.17:586][536]LogInit: FAudioDevice initialized.
+[2023.04.14-19.53.17:586][536]LogAudio: Display: Audio Device (ID: 98) registered with world 'EgyptEnemies'.
+[2023.04.14-19.53.17:599][536]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.53.17:611][536]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.53.17
+[2023.04.14-19.53.17:611][536]LogWorld: Bringing up level for play took: 0.012074
+[2023.04.14-19.53.17:613][536]LogOnline: OSS: Created online subsystem instance for: :Context_190
+[2023.04.14-19.53.17:614][536]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.53.17:614][536]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.53.17:614][536]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:615][536]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.53.17:620][536]PIE: Server logged in
+[2023.04.14-19.53.17:622][536]PIE: Play in editor total start time 0.253 seconds.
+[2023.04.14-19.53.18:796][633]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.53.20:114][750]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.21:083][834]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.53.21:253][849]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.22:381][943]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.23:498][ 38]LogBlueprintUserMessages: [BP_Rift_C_2] Damage: 250
+[2023.04.14-19.53.23:512][ 39]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.23:984][ 80]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.53.24:655][138]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.25:798][237]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.26:396][290]LogBlueprintUserMessages: [BP_Rift_C_3] Damage: 250
+[2023.04.14-19.53.26:924][334]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.28:056][437]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.29:190][539]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.53.31:754][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.53.31:754][814]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.53.31:754][814]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.53.31:755][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.53.31:770][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.53.31:781][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.53.31:927][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-19.53.31:927][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2023.04.14-19.53.31:929][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2023.04.14-19.53.31:932][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.53.31:938][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.04.14-19.53.32:017][815]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2023.04.14-19.54.22:366][686]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.BP_RaijinWeaponL
+[2023.04.14-19.54.22:366][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.54.50:450][619]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL
+[2023.04.14-19.54.50:450][619]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponL96AD291E4C5B6BE5FDC5678F9943E618.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.uasset'
+[2023.04.14-19.54.50:475][619]AssetCheck: New page: Asset Save: BP_RaijinWeaponL
+[2023.04.14-19.54.50:475][619]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.BP_RaijinWeaponL
+[2023.04.14-19.55.10:303][460]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapGridFlow_SideScroller/Blueprints/Characters/SS_SprintCamShake.SS_SprintCamShake_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:303][460]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_TakeDamage.HeadBob_TakeDamage_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:303][460]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Shoot.HeadBob_Shoot_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:303][460]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Run.HeadBob_Run_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:303][460]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Idle.HeadBob_Idle_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:303][460]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1399 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1407 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1401 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1403 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1421 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1405 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.10:304][460]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_Raijin_C_1503 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-19.55.29:942][237]BlueprintLog: New page: Compile BP_RaijinWeaponL
+[2023.04.14-19.55.30:167][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2023.04.14-19.55.30:606][268]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL
+[2023.04.14-19.55.30:607][268]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponLDA96708A4C5EB45ADFBEB886D5090ED8.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.uasset'
+[2023.04.14-19.55.30:632][268]AssetCheck: New page: Asset Save: BP_RaijinWeaponL
+[2023.04.14-19.55.30:632][268]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.BP_RaijinWeaponL
+[2023.04.14-19.55.43:036][382]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.55.43:291][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.04.14-19.55.43:835][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-19.55.43:852][408]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-19.55.43:852][408]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_Raijin34789A7240B2F1F95F276EADE0FDE531.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-19.55.43:876][408]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-19.55.43:876][408]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-19.56.04:416][567]BlueprintLog: New page: Compile BP_RaijinWeaponL
+[2023.04.14-19.56.04:635][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.04.14-19.56.05:032][593]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL
+[2023.04.14-19.56.05:032][593]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinWeaponLDAFD3CB1465ABF68EDDC3783A6F4D1A1.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.uasset'
+[2023.04.14-19.56.05:060][593]AssetCheck: New page: Asset Save: BP_RaijinWeaponL
+[2023.04.14-19.56.05:060][593]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_RaijinWeaponL.BP_RaijinWeaponL
+[2023.04.14-19.56.06:243][691]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.56.06:253][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.56.06:254][691]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:56:06 AM)
+[2023.04.14-19.56.06:254][691]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.56.06:257][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003740s)
+[2023.04.14-19.56.06:257][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003814s)
+[2023.04.14-19.56.06:258][691]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.56.06:258][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.56.06:258][691]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.56.06:258][691]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2023.04.14-19.56.06:408][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.04.14-19.56.06:412][691]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.56.06:412][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.56.06:412][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.56.06:412][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.56.06:413][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.56.06:413][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.56.06:414][691]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.56.06:443][691]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.56.06:443][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.56.06:443][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.56.06:443][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.56.06:444][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=99
+[2023.04.14-19.56.06:445][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=99
+[2023.04.14-19.56.06:446][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=99
+[2023.04.14-19.56.06:446][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=99
+[2023.04.14-19.56.06:446][691]LogInit: FAudioDevice initialized.
+[2023.04.14-19.56.06:446][691]LogAudio: Display: Audio Device (ID: 99) registered with world 'EgyptEnemies'.
+[2023.04.14-19.56.06:456][691]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.56.06:473][691]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.56.06
+[2023.04.14-19.56.06:474][691]LogWorld: Bringing up level for play took: 0.017501
+[2023.04.14-19.56.06:475][691]LogOnline: OSS: Created online subsystem instance for: :Context_192
+[2023.04.14-19.56.06:476][691]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.56.06:476][691]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.56.06:476][691]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:477][691]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.06:507][691]LogScript: Warning: Accessed None trying to read property WeaponL
+	BP_Raijin_C /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies:PersistentLevel.BP_Raijin_C_1
+	Function /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin_C:ExecuteUbergraph_BP_Raijin:0568
+[2023.04.14-19.56.06:518][691]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property WeaponL". Node:  Attach Actor To Component Graph:  EventGraph Function:  Execute Ubergraph BP Raijin Blueprint:  BP_Raijin
+[2023.04.14-19.56.06:520][691]PIE: Server logged in
+[2023.04.14-19.56.06:521][691]PIE: Play in editor total start time 0.268 seconds.
+[2023.04.14-19.56.08:197][834]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.08:514][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.56.08:514][860]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.56.08:514][860]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.56.08:515][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.56.08:531][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.56.08:544][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.56.08:686][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.14-19.56.08:686][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2023.04.14-19.56.08:688][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2023.04.14-19.56.08:691][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.56.08:697][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2023.04.14-19.56.08:932][861]LogPlayLevel: Display: Destroying online subsystem :Context_192
+[2023.04.14-19.56.10:535][956]LogSlate: Window 'Message Log' being destroyed
+[2023.04.14-19.56.10:556][956]LogSlate: Window 'Message Log' being destroyed
+[2023.04.14-19.56.14:200][233]BlueprintLog: New page: Compile BP_Raijin
+[2023.04.14-19.56.14:471][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.04.14-19.56.14:854][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-19.56.14:873][244]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-19.56.14:873][244]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinF595CE0E421CFB17EA445192A9058CDB.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-19.56.14:896][244]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-19.56.14:896][244]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-19.56.15:916][322]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.14-19.56.15:928][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.14-19.56.15:928][322]PIE: New page: PIE session: EgyptEnemies (Apr 14, 2023, 5:56:15 AM)
+[2023.04.14-19.56.15:928][322]LogPlayLevel: Creating play world package: /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.56.15:932][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003564s)
+[2023.04.14-19.56.15:932][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GAS/EgyptEnemies.EgyptEnemies to /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies (0.003661s)
+[2023.04.14-19.56.15:932][322]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.04.14-19.56.15:932][322]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-19.56.15:933][322]LogAIModule: Creating AISystem for world EgyptEnemies
+[2023.04.14-19.56.15:933][322]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2023.04.14-19.56.16:078][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2023.04.14-19.56.16:081][322]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.14-19.56.16:082][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.14-19.56.16:082][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.14-19.56.16:082][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.14-19.56.16:082][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.14-19.56.16:082][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.14-19.56.16:085][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.14-19.56.16:114][322]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis 7+)
+[2023.04.14-19.56.16:114][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.14-19.56.16:114][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.14-19.56.16:115][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.14-19.56.16:117][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=100
+[2023.04.14-19.56.16:117][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=100
+[2023.04.14-19.56.16:118][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=100
+[2023.04.14-19.56.16:118][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=100
+[2023.04.14-19.56.16:118][322]LogInit: FAudioDevice initialized.
+[2023.04.14-19.56.16:118][322]LogAudio: Display: Audio Device (ID: 100) registered with world 'EgyptEnemies'.
+[2023.04.14-19.56.16:128][322]LogLoad: Game class is 'GAS_Mode_C'
+[2023.04.14-19.56.16:143][322]LogWorld: Bringing World /Game/GAS/UEDPIE_0_EgyptEnemies.EgyptEnemies up for play (max tick rate 0) at 2023.04.14-12.56.16
+[2023.04.14-19.56.16:144][322]LogWorld: Bringing up level for play took: 0.015642
+[2023.04.14-19.56.16:147][322]LogOnline: OSS: Created online subsystem instance for: :Context_193
+[2023.04.14-19.56.16:147][322]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-19.56.16:148][322]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-19.56.16:148][322]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Skins/Inquisitor/Meshes/Gideon_Inquisitor.Gideon_Inquisitor]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Actor 'GAS_Character_C_0' component 'CharacterMesh0' has 27 sphere, 24 capsule, and 0 convex collision objects for physics authored as part of a LOD construct, probably by the Apex cloth authoring system. This is deprecated. Please update your asset!
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:148][322]LogChaosCloth: Warning: Found a legacy cloth asset with a collision capsule spanning across two bones. This is not supported with the current system.
+[2023.04.14-19.56.16:152][322]PIE: Server logged in
+[2023.04.14-19.56.16:152][322]PIE: Play in editor total start time 0.225 seconds.
+[2023.04.14-19.56.17:697][450]LogBlueprintUserMessages: [BP_Rift_C_0] Damage: 250
+[2023.04.14-19.56.18:700][533]LogBlueprintUserMessages: [oni_task_attack_C_0] Dragon
+[2023.04.14-19.56.19:887][629]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.20:304][665]LogBlueprintUserMessages: [BP_Rift_C_1] Damage: 250
+[2023.04.14-19.56.21:017][727]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.22:145][821]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.22:574][858]LogBlueprintUserMessages: [RJGA_SpawnMeteor_C_0] Spawn Meteor
+[2023.04.14-19.56.22:814][878]LogBlueprintUserMessages: [BP_Rift_C_2] Damage: 250
+[2023.04.14-19.56.23:285][918]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.24:425][ 17]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.25:325][ 96]LogBlueprintUserMessages: [BP_Rift_C_3] Damage: 250
+[2023.04.14-19.56.25:556][116]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.26:699][216]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.27:827][309]LogBlueprintUserMessages: [oni_task_attack_C_1] Dragon
+[2023.04.14-19.56.29:474][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.56.29:474][476]LogWorld: BeginTearingDown for /Game/GAS/UEDPIE_0_EgyptEnemies
+[2023.04.14-19.56.29:474][476]LogWorld: UWorld::CleanupWorld for EgyptEnemies, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-19.56.29:475][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.56.29:510][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.14-19.56.29:523][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-19.56.29:663][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.14-19.56.29:663][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2023.04.14-19.56.29:664][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2023.04.14-19.56.29:674][476]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2023.04.14-19.56.29:746][477]LogPlayLevel: Display: Destroying online subsystem :Context_193
