@@ -18972,3 +18972,560 @@ Make sure 'BP_DragonTerror_C' has been compiled for  Get IsAttacking_0
 [2023.04.14-02.08.17:656][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Egypt/BoneDragon/ABP_DragonTerror_Auto0
 [2023.04.14-02.08.17:656][  1]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/ABP_DragonTerror_Auto0EDE388254B4495989B58439D0DB4F71F.tmp' to '../../../../../../../Github/Escape-Game/Saved/Autosaves/Game/Enemy/Egypt/BoneDragon/ABP_DragonTerror_Auto0.uasset'
 [2023.04.14-02.08.17:657][  1]LogFileHelpers: Auto-saving content packages took 0.189
+[2023.04.14-02.13.31:154][479]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.684 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-02.14.31:714][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/AI/Tasks/ai_task_attack" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/AI/Tasks/ai_task_attack.uasset" SILENT=true
+[2023.04.14-02.14.31:722][800]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/AI/Tasks/ai_task_attack
+[2023.04.14-02.14.31:723][800]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/ai_task_attack82F80E3B4718E605357FC8B7D2FF5B9B.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/AI/Tasks/ai_task_attack.uasset'
+[2023.04.14-02.14.31:776][800]AssetCheck: New page: Asset Save: ai_task_attack
+[2023.04.14-02.14.31:776][800]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/AI/Tasks/ai_task_attack.ai_task_attack
+[2023.04.14-02.14.33:300][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Egypt/BoneDragon/ABP_DragonTerror" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Egypt/BoneDragon/ABP_DragonTerror.uasset" SILENT=true
+[2023.04.14-02.14.33:384][889]LogSavePackage: Moving output files for package: /Game/Enemy/Egypt/BoneDragon/ABP_DragonTerror
+[2023.04.14-02.14.33:385][889]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/ABP_DragonTerrorB9D9C4824DC99FC6C8103A89673A6159.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Egypt/BoneDragon/ABP_DragonTerror.uasset'
+[2023.04.14-02.14.33:414][889]AssetCheck: New page: Asset Save: ABP_DragonTerror
+[2023.04.14-02.14.33:414][889]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemy/Egypt/BoneDragon/ABP_DragonTerror.ABP_DragonTerror
+[2023.04.14-02.14.35:417][  4]LogWorld: UWorld::CleanupWorld for World_160, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.14.35:417][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.14.39:794][276]LogWorld: UWorld::CleanupWorld for World_164, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.14.39:794][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.14.39:823][276]LogWorld: UWorld::CleanupWorld for World_163, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.14.39:823][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.14.39:966][276]LogWorld: UWorld::CleanupWorld for World_165, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.14.39:966][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.15.15:608][686]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapGridFlow_SideScroller/Blueprints/Characters/SS_SprintCamShake.SS_SprintCamShake_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:608][686]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_TakeDamage.HeadBob_TakeDamage_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:608][686]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Shoot.HeadBob_Shoot_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:608][686]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Run.HeadBob_Run_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:608][686]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Idle.HeadBob_Idle_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:608][686]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_426 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_386 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_404 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_412 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_410 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_400 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_406 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_402 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_438 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_440 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_442 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_448 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_444 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_446 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_476 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.15:609][686]LogEditorClassViewer: Warning: Class /Engine/Transient.REINST_SKEL_BP_DragonTerror_C_478 has parent /Game/GASEnemy/BP_ParRegEnem.SKEL_BP_ParRegEnem_C, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-02.15.17:601][686]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.14-02.15.17:667][686]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.14-02.15.17:677][686]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.14-02.15.17:700][687]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.14-02.15.24:495][400]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Raijin
+[2023.04.14-02.15.24:674][400]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.
+[2023.04.14-02.15.24:713][400]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.14-02.15.25:794][508]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-02.15.25:794][508]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.15.26:497][508]LogViewport: Scene viewport resized to 1016x617, mode Windowed.
+[2023.04.14-02.15.50:699][ 14]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.14-02.15.50:699][ 14]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Meshes/Gideon.Gideon]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2023.04.14-02.15.50:699][ 14]LogSkeletalMesh: Display: OnRegister[/Game/ParagonGideon/Characters/Heroes/Gideon/Meshes/Gideon.Gideon]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2023.04.14-02.15.54:314][114]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 063877C0CBCE8FE3673FF22475F1FD5C07B82C11), compiling. 
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: ================================================
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Total job queries 509, among them cache hits 25 (4.91%)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Tracking 481 distinct input hashes that result in 187 distinct outputs (38.88%)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: RAM used: 0.57 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.07%
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Shaders Compiled: 483
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Jobs assigned 484, completed 481 (99.38%)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Average time worker was idle: 622.53 s
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Time job spent in pending queue: average 105.00 s, longest 215.11 s
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Job execution time: average 29.86 s, max 90.84 s
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Job life time (pending + execution): average 135.51 s, max 217.11
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 248.73 s
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Jobs were issued in 103 batches (only local compilation was used), average 4.70 jobs/batch
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Average processing rate: 1.93 jobs/sec
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Effective parallelization: 5.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 17.34 sec, max 18.34 sec, min 16.34 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 16.01 sec, max 16.17 sec, min 15.85 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 15.65 sec, max 17.34 sec, min 13.96 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 15.48 sec, max 16.02 sec, min 14.94 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 15.04 sec, max 16.72 sec, min 13.35 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.96% of total time (compiled   22 times, average 3.95 sec, max 16.68 sec, min 1.97 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.94% of total time (compiled   20 times, average 4.33 sec, max 17.75 sec, min 1.16 sec)
+[2023.04.14-02.16.02:960][206]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.85% of total time (compiled   22 times, average 3.88 sec, max 16.06 sec, min 2.02 sec)
+[2023.04.14-02.16.02:961][206]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.84% of total time (compiled   20 times, average 4.25 sec, max 17.51 sec, min 1.66 sec)
+[2023.04.14-02.16.02:961][206]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.60% of total time (compiled   20 times, average 4.08 sec, max 16.87 sec, min 1.27 sec)
+[2023.04.14-02.16.02:961][206]LogShaderCompilers: Display: ================================================
+[2023.04.14-02.16.27:447][471]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Decals/Tiling/T_GroundLash_Tile.T_GroundLash_Tile (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.16.27:447][471]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Decals/Tiling/T_GroundLash_Tile_NM.T_GroundLash_Tile_NM (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.16.27:447][471]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_Proj.P_Gideon_RMB_Proj:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.16.27:447][471]LogMaterial: Display: Missing cached shadermap for M_Meteor_Masked_RMB in PCD3D_SM5, Default, SM5 (DDC key hash: A44F06FDC5B6D0099332FB2BBCACC455F5605186), compiling. 
+[2023.04.14-02.16.27:899][471]LogMaterial: Display: Missing cached shadermap for M_Meteor_Smoke_Surround in PCD3D_SM5, Default, SM5 (DDC key hash: 200860AA26C6C5C211CCB744F5453574E90B9BD9), compiling. 
+[2023.04.14-02.16.28:177][471]LogMaterial: Display: Missing cached shadermap for M_Fog_SphericalDensity in PCD3D_SM5, Default, SM5 (DDC key hash: 0A94FBC548C358A80D0A0D938EB0DE79A4DF4509), compiling. 
+[2023.04.14-02.16.28:434][471]LogMaterial: Display: Missing cached shadermap for MI_Fog_SphericalDensity_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 1C0495C15BAA9473F284B31309BBCF9E7BC1B1D0), compiling. 
+[2023.04.14-02.16.28:707][471]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonGideon/FX/Meshes/Shapes/SM_Sphere_FlippedNormals) ...
+[2023.04.14-02.16.29:533][471]LogStaticMesh: Display: Building static mesh SM_WindCone...
+[2023.04.14-02.16.29:533][471]LogStaticMesh: Display: Building static mesh SM_Sphere_FlippedNormals...
+[2023.04.14-02.16.29:533][471]LogStaticMesh: Display: Building static mesh SM_Meteor_Small...
+[2023.04.14-02.16.29:533][471]LogStaticMesh: Built static mesh [0.38s] /Game/ParagonGideon/FX/Meshes/Shapes/SM_WindCone.SM_WindCone
+[2023.04.14-02.16.29:533][471]LogStaticMesh: Built static mesh [0.38s] /Game/ParagonGideon/FX/Meshes/Shapes/SM_Sphere_FlippedNormals.SM_Sphere_FlippedNormals
+[2023.04.14-02.16.29:533][471]LogStaticMesh: Built static mesh [0.45s] /Game/ParagonGideon/FX/Meshes/Heroes/Gideon/Abilities/SM_Meteor_Small.SM_Meteor_Small
+[2023.04.14-02.16.29:533][471]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_Proj.P_Gideon_RMB_Proj
+[2023.04.14-02.16.33:141][471]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2023.04.14-02.16.33:142][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.16.33:573][471]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.16.33:592][471]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AnimTreeEd_PreviewFloor) ...
+[2023.04.14-02.16.34:559][471]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002256s (3.123537s overbudget)
+[2023.04.14-02.16.38:175][471]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.16.38:558][471]LogSlate: Took 0.047916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.14-02.16.38:647][471]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.16.38:725][471]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.16.39:410][472]LogViewport: Scene viewport resized to 1335x497, mode Windowed.
+[2023.04.14-02.17.20:157][466]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonGideon/FX/Meshes/Heroes/Gideon/SM_Spline_X_Aligned) ...
+[2023.04.14-02.17.20:432][466]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/Primary/FX/P_Gideon_Primary_Projectile.P_Gideon_Primary_Projectile
+[2023.04.14-02.17.20:438][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.17.20:477][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.17.20:773][466]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.17.20:846][466]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.17.20:894][466]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.19.26:214][849]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Gideon_Ability_E_Engage_010...
+[2023.04.14-02.19.26:214][849]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_010.Gideon_Ability_E_Engage_010 will be modified from 40 to 40.
+[2023.04.14-02.19.26:231][849]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 343124 while cooking SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_010.Gideon_Ability_E_Engage_010.
+[2023.04.14-02.19.26:231][849]LogAudio: Display: Chunk size for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_010.Gideon_Ability_E_Engage_010: 262144
+[2023.04.14-02.19.26:233][849]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Gideon_Ability_E_Engage_020...
+[2023.04.14-02.19.26:234][849]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_020.Gideon_Ability_E_Engage_020 will be modified from 40 to 40.
+[2023.04.14-02.19.26:252][849]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 339212 while cooking SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_020.Gideon_Ability_E_Engage_020.
+[2023.04.14-02.19.26:252][849]LogAudio: Display: Chunk size for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_020.Gideon_Ability_E_Engage_020: 262144
+[2023.04.14-02.19.26:254][849]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Gideon_Ability_E_Engage_030...
+[2023.04.14-02.19.26:254][849]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_030.Gideon_Ability_E_Engage_030 will be modified from 40 to 40.
+[2023.04.14-02.19.26:281][849]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 467216 while cooking SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_030.Gideon_Ability_E_Engage_030.
+[2023.04.14-02.19.26:281][849]LogAudio: Display: Chunk size for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Ability_E_Engage_030.Gideon_Ability_E_Engage_030: 262144
+[2023.04.14-02.19.26:445][849]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/ParagonGideon/Audio/Cues/Gideon_Ability_E_Engage.Gideon_Ability_E_Engage
+[2023.04.14-02.19.29:504][ 80]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.14-02.19.48:945][568]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Gideon_Intro_Boast_010...
+[2023.04.14-02.19.48:954][568]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_010.Gideon_Intro_Boast_010 will be modified from 40 to 40.
+[2023.04.14-02.19.49:000][568]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 891672 while cooking SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_010.Gideon_Intro_Boast_010.
+[2023.04.14-02.19.49:000][568]LogAudio: Display: Chunk size for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_010.Gideon_Intro_Boast_010: 262144
+[2023.04.14-02.19.49:004][568]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Gideon_Intro_Boast_020...
+[2023.04.14-02.19.49:006][568]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_020.Gideon_Intro_Boast_020 will be modified from 40 to 40.
+[2023.04.14-02.19.49:070][568]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1076596 while cooking SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_020.Gideon_Intro_Boast_020.
+[2023.04.14-02.19.49:070][568]LogAudio: Display: Chunk size for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_020.Gideon_Intro_Boast_020: 262144
+[2023.04.14-02.19.49:071][568]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_-10-1-1-1-1-1 wave Gideon_Intro_Boast_030...
+[2023.04.14-02.19.49:072][568]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_030.Gideon_Intro_Boast_030 will be modified from 40 to 40.
+[2023.04.14-02.19.49:106][568]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 633584 while cooking SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_030.Gideon_Intro_Boast_030.
+[2023.04.14-02.19.49:106][568]LogAudio: Display: Chunk size for SoundWave /Game/ParagonGideon/Audio/Wavs/Gideon_Intro_Boast_030.Gideon_Intro_Boast_030: 262144
+[2023.04.14-02.19.49:121][568]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/ParagonGideon/Audio/Cues/Gideon_Intro_Boast.Gideon_Intro_Boast
+[2023.04.14-02.21.14:649][655]LogCascade: Quitting Cascade. FXSystem=0x000007B17721ADA0
+[2023.04.14-02.21.14:720][655]LogWorld: UWorld::CleanupWorld for World_172, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.21.14:720][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.21.16:359][775]LogCascade: Quitting Cascade. FXSystem=0x000007B3993D8D30
+[2023.04.14-02.21.16:426][775]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2023.04.14-02.21.16:426][775]LogWorld: UWorld::CleanupWorld for World_171, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.21.16:426][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.22.46:493][ 79]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_Proj.P_Gideon_RMB_Proj
+[2023.04.14-02.22.46:495][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.22.46:501][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.22.46:582][ 79]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.22.46:602][ 79]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.22.46:640][ 79]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.22.46:870][ 80]LogViewport: Scene viewport resized to 1335x497, mode Windowed.
+[2023.04.14-02.29.36:288][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Tile/Water/T_WaveDisplaced_N.T_WaveDisplaced_N (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.36:288][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterTile_Blur_Packed.T_WaterTile_Blur_Packed (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.36:288][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Masks/T_Beam_Gradient_02.T_Beam_Gradient_02 (TFO_AutoDXT, 32X1024 X1X1) (Required Memory Estimate: 0.625 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.36:288][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Tile/Noise/T_NoiseBubbly_Large.T_NoiseBubbly_Large (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.36:288][596]LogMaterial: Display: Missing cached shadermap for M_WaterRipple_Mesh_Foam in PCD3D_SM5, Default, SM5 (DDC key hash: 43A69408D0BBAB41EA05B575F8AD33F03CFFC90C), compiling. 
+[2023.04.14-02.29.37:124][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterSplash2x2.T_WaterSplash2x2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.37:124][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterSplash2x2_N.T_WaterSplash2x2_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.37:124][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_HitWorld.P_Gideon_RMB_HitWorld:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.37:124][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Fire/T_Fire_SmokeWisps_Tile.T_Fire_SmokeWisps_Tile (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.37:124][596]LogMaterial: Display: Missing cached shadermap for M_FlareMesh in PCD3D_SM5, Default, SM5 (DDC key hash: A9DA5ABE06AE508B49274346E305752D4A07C630), compiling. 
+[2023.04.14-02.29.37:409][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterTests_BF_01E_D.T_WaterTests_BF_01E_D (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.37:409][596]LogMaterial: Display: Missing cached shadermap for M_WaterImpact_Strand_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: D4F83A2EB6C6D4F79F7CE45F3589C82F96238F66), compiling. 
+[2023.04.14-02.29.37:629][596]LogMaterial: Display: Missing cached shadermap for M_Gideon_Water_Particles in PCD3D_SM5, Default, SM5 (DDC key hash: 8B9CB9987146D91444789A1235026D7E95D95A26), compiling. 
+[2023.04.14-02.29.37:904][596]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterTests_BF_01E_N.T_WaterTests_BF_01E_N (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.37:904][596]LogMaterial: Display: Missing cached shadermap for M_Gideon_Water_Particles_Body_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: F785DAA03019EA9448CB699A955758A559E11AC8), compiling. 
+[2023.04.14-02.29.38:229][596]LogStaticMesh: Display: Building static mesh SM_Turret_LightRays...
+[2023.04.14-02.29.38:229][596]LogStaticMesh: Display: Building static mesh SM_Plasma_Mesh_Reduced...
+[2023.04.14-02.29.38:229][596]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonGideon/FX/Meshes/Smoke/SM_Plasma_Mesh_Reduced) ...
+[2023.04.14-02.29.38:522][596]LogStaticMesh: Display: Building static mesh SM_WaterFall_RippleMeshes...
+[2023.04.14-02.29.38:522][596]LogStaticMesh: Built static mesh [0.28s] /Game/ParagonGideon/FX/Meshes/Smoke/SM_Plasma_Mesh_Reduced.SM_Plasma_Mesh_Reduced
+[2023.04.14-02.29.38:522][596]LogStaticMesh: Built static mesh [0.30s] /Game/ParagonGideon/FX/Meshes/Game/SM_Turret_LightRays.SM_Turret_LightRays
+[2023.04.14-02.29.38:522][596]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonGideon/FX/Meshes/Water/SM_WaterFall_RippleMeshes) ...
+[2023.04.14-02.29.38:609][596]LogStaticMesh: Built static mesh [0.27s] /Game/ParagonGideon/FX/Meshes/Water/SM_WaterFall_RippleMeshes.SM_WaterFall_RippleMeshes
+[2023.04.14-02.29.38:609][596]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonGideon/FX/Meshes/Game/SM_Turret_LightRays) ...
+[2023.04.14-02.29.38:790][596]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_HitWorld.P_Gideon_RMB_HitWorld
+[2023.04.14-02.29.38:794][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.29.38:822][596]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.29.39:016][596]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.29.39:083][596]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.29.39:137][596]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.29.39:922][597]LogViewport: Scene viewport resized to 1335x497, mode Windowed.
+[2023.04.14-02.29.43:681][778]LogMeshUtilities: Finished distance field build in 4.7s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 54% occupied, 190 triangles, SM_Turret_LightRays
+[2023.04.14-02.29.46:107][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/NormalShapes/T_Sphere_Edge_N.T_Sphere_Edge_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:107][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Smoke/T_dust_cloud_01.T_dust_cloud_01 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:107][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Coords/T_Swirl_FlowMapDiffTile_Warp.T_Swirl_FlowMapDiffTile_Warp (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:107][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_SplashMask.T_SplashMask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:107][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_MaskeSplashes_Bubbles1_A.T_MaskeSplashes_Bubbles1_A (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:107][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_MaskeSplashes_Bubbles_Depth.T_MaskeSplashes_Bubbles_Depth (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:108][817]LogMaterial: Display: Missing cached shadermap for M_MaskedWater_Explo in PCD3D_SM5, Low, SM5 (DDC key hash: E675F2FBC4761F5DB23B374FA6CDEDDE211F6F1E), compiling. 
+[2023.04.14-02.29.46:363][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_MaskeSplashes_Bubbles_N.T_MaskeSplashes_Bubbles_N (TFO_BC5, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:363][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Heroes/T_Hanging_cloth_normal_b.T_Hanging_cloth_normal_b (TFO_BC5, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:363][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Liquid/T_Drop_Hard_Mask.T_Drop_Hard_Mask (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:363][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Liquid/T_Drop_Hard_Normal.T_Drop_Hard_Normal (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:363][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Liquid/T_Liquid_Reflection.T_Liquid_Reflection (TFO_AutoDXT, 256X256 X1X1) (Required Memory Estimate: 1.250 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:363][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterFlow_01_Foam_Tiled.T_WaterFlow_01_Foam_Tiled (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:364][817]LogMaterial: Display: Missing cached shadermap for M_Water_Drops_Master in PCD3D_SM5, Default, SM5 (DDC key hash: EDD0EA96A6D1D176072451A47B2285D5DEA13AC3), compiling. 
+[2023.04.14-02.29.46:471][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Tile/Noise/T_Water_Screen_Noise_Soft2.T_Water_Screen_Noise_Soft2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:471][817]LogMaterial: Display: Missing cached shadermap for M_WaterImpact_Cylinder in PCD3D_SM5, Default, SM5 (DDC key hash: 016B83D0AC7316A671D166BF3DE7A4414F008DB5), compiling. 
+[2023.04.14-02.29.46:684][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_WaterFlow_01_Foam_Tiled_N.T_WaterFlow_01_Foam_Tiled_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:685][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Materials/MaterialFunctions/Textures/Noise/T_AtmosphericCloudNoise04_N.T_AtmosphericCloudNoise04_N (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:685][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Coords/T_Turbulence_AdditiveWarp_Linear.T_Turbulence_AdditiveWarp_Linear (BGRA8, 1024X1024 X1X1) (Required Memory Estimate: 20.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:685][817]LogMaterial: Display: Missing cached shadermap for M_WaterBubbles in PCD3D_SM5, Default, SM5 (DDC key hash: A2C0DEDAE2A85E3375B1FBF2D33E566BD30C785B), compiling. 
+[2023.04.14-02.29.46:927][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_BoilBubble_D.T_BoilBubble_D (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.46:927][817]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ParagonGideon/FX/Meshes/Water/SM_WaterImpact_ImpactCylinder) ...
+[2023.04.14-02.29.47:113][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Tile/Heat/T_2ndInfectedMapNormal.T_2ndInfectedMapNormal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.47:114][817]LogStaticMesh: Display: Building static mesh SM_WaterImpact_ImpactCylinder...
+[2023.04.14-02.29.47:114][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Textures/Water/T_BoilBubble_N.T_BoilBubble_N (TFO_BC5, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.47:114][817]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_HitWorld_Water.P_Gideon_RMB_HitWorld_Water:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.29.47:114][817]LogStaticMesh: Built static mesh [0.05s] /Game/ParagonGideon/FX/Meshes/Water/SM_WaterImpact_ImpactCylinder.SM_WaterImpact_ImpactCylinder
+[2023.04.14-02.29.47:114][817]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_HitWorld_Water.P_Gideon_RMB_HitWorld_Water
+[2023.04.14-02.29.47:117][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.29.47:156][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.29.47:420][817]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.29.47:489][817]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.29.47:590][817]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.29.48:351][818]LogViewport: Scene viewport resized to 1335x497, mode Windowed.
+[2023.04.14-02.29.56:536][  2]LogShaderCompilers: Display: ================================================
+[2023.04.14-02.29.56:537][  2]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-02.29.56:538][  2]LogShaderCompilers: Display: Total job queries 1632, among them cache hits 28 (1.72%)
+[2023.04.14-02.29.56:538][  2]LogShaderCompilers: Display: Tracking 709 distinct input hashes that result in 364 distinct outputs (51.34%)
+[2023.04.14-02.29.56:538][  2]LogShaderCompilers: Display: RAM used: 0.99 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.12%
+[2023.04.14-02.29.56:538][  2]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-02.29.56:538][  2]LogShaderCompilers: Display: Shaders Compiled: 1603
+[2023.04.14-02.29.56:538][  2]LogShaderCompilers: Display: Jobs assigned 780, completed 709 (90.90%)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Average time worker was idle: 550.35 s
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Time job spent in pending queue: average 71.24 s, longest 215.11 s
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Job execution time: average 26.49 s, max 90.84 s
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Job life time (pending + execution): average 104.85 s, max 217.11
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 335.87 s
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Jobs were issued in 154 batches (only local compilation was used), average 5.06 jobs/batch
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Average processing rate: 2.11 jobs/sec
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Effective parallelization: 5.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 17.34 sec, max 18.34 sec, min 16.34 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 16.01 sec, max 16.17 sec, min 15.85 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 15.65 sec, max 17.34 sec, min 13.96 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 15.48 sec, max 16.02 sec, min 14.94 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 15.04 sec, max 16.72 sec, min 13.35 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.71% of total time (compiled   37 times, average 3.54 sec, max 16.06 sec, min 2.02 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.68% of total time (compiled   35 times, average 3.73 sec, max 16.68 sec, min 1.95 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.97% of total time (compiled   36 times, average 3.24 sec, max 5.18 sec, min 1.55 sec)
+[2023.04.14-02.29.56:539][  2]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.94% of total time (compiled   37 times, average 3.13 sec, max 5.69 sec, min 0.87 sec)
+[2023.04.14-02.29.56:540][  2]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.89% of total time (compiled   23 times, average 4.15 sec, max 17.51 sec, min 1.66 sec)
+[2023.04.14-02.29.56:540][  2]LogShaderCompilers: Display: ================================================
+[2023.04.14-02.30.40:745][536]LogTexture: Display: Building textures: /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_NoHitExplosion.P_Gideon_RMB_NoHitExplosion:ThumbnailTexture (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 5.000 MB), EncodeSpeed: Fast
+[2023.04.14-02.30.40:745][536]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/ProjectileMeteor/FX/P_Gideon_RMB_NoHitExplosion.P_Gideon_RMB_NoHitExplosion
+[2023.04.14-02.30.40:751][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.30.40:795][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.30.41:033][536]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.30.41:090][536]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.30.41:153][536]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.30.41:517][537]LogViewport: Scene viewport resized to 1335x497, mode Windowed.
+[2023.04.14-02.30.50:298][750]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/ParagonGideon/FX/Particles/Gideon/Abilities/Primary/FX/P_Gideon_Primary_HitCharacter.P_Gideon_Primary_HitCharacter
+[2023.04.14-02.30.50:305][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.30.50:351][750]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.30.50:703][750]LogViewport: Scene viewport resized to 572x420, mode Windowed.
+[2023.04.14-02.30.50:787][750]LogViewport: Scene viewport resized to 1335x509, mode Windowed.
+[2023.04.14-02.30.50:835][750]LogViewport: Scene viewport resized to 1335x256, mode Windowed.
+[2023.04.14-02.30.51:159][751]LogViewport: Scene viewport resized to 1335x497, mode Windowed.
+[2023.04.14-02.31.18:730][386]LogShaderCompilers: Display: Worker (2/9) finished batch of 10 jobs in 61.407s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=20.262s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=16.934s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=4.080s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=3.938s], FDebugViewModeVS [WorkerTime=2.878s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=2.574s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=2.088s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=1.270s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=0.882s], VelocityPipeline
+[2023.04.14-02.31.20:118][403]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 60.546s, TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=17.005s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=16.736s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=15.510s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=2.713s], TBasePassVSFNoLightMapPolicy [WorkerTime=2.327s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=2.309s], FDistortionMeshVS [WorkerTime=1.357s], FLumenTranslucencyRadianceCacheMarkPS [WorkerTime=0.933s], FLumenCardPS<false> [WorkerTime=0.794s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=0.672s]
+[2023.04.14-02.31.27:093][548]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 70.402s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=19.598s], TBasePassPSFSelfShadowedTranslucencyPolicySkylight [WorkerTime=19.243s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=15.498s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=3.055s], FDebugViewModePS [WorkerTime=3.054s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=2.587s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=2.434s], TLightMapDensityVSFDummyLightMapPolicy [WorkerTime=2.305s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=1.776s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=0.718s]
+[2023.04.14-02.31.46:889][ 82]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 87.720s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=20.628s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=18.909s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=18.397s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=16.990s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=4.119s], TBasePassVSFNoLightMapPolicy [WorkerTime=2.779s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=2.510s], FLumenTranslucencyRadianceCacheMarkPS [WorkerTime=1.108s], TTranslucencyShadowDepthPS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=1.061s], TLightMapDensityPSFDummyLightMapPolicy [WorkerTime=1.047s]
+[2023.04.14-02.32.25:790][776]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 81.690s, TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight [WorkerTime=19.281s], TBasePassPSFNoLightMapPolicy [WorkerTime=17.900s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=17.452s], TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=15.999s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=2.416s], TBasePassVSFNoLightMapPolicy [WorkerTime=1.982s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=1.949s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=1.885s], FDebugViewModeVS [WorkerTime=1.393s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=1.297s]
+[2023.04.14-02.32.36:704][930]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 76.586s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=18.354s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=17.583s], TBasePassPSFSelfShadowedTranslucencyPolicy [WorkerTime=15.907s], TBasePassPSFNoLightMapPolicy [WorkerTime=14.866s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=3.674s], FLumenCardVS [WorkerTime=1.773s], FDistortionMeshVS [WorkerTime=1.632s], FLumenCardPS<false> [WorkerTime=0.942s], TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> [WorkerTime=0.917s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=0.799s]
+[2023.04.14-02.33.03:107][260]LogShaderCompilers: Display: ================================================
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Total job queries 1690, among them cache hits 86 (5.09%)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Tracking 1133 distinct input hashes that result in 678 distinct outputs (59.84%)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: RAM used: 1.91 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Shaders Compiled: 1605
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Jobs assigned 1213, completed 1133 (93.40%)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Average time worker was idle: 352.42 s
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Time job spent in pending queue: average 85.54 s, longest 215.11 s
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Job execution time: average 28.88 s, max 90.84 s
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Job life time (pending + execution): average 107.41 s, max 217.11
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 522.41 s
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Jobs were issued in 236 batches (only local compilation was used), average 5.14 jobs/batch
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Average processing rate: 2.17 jobs/sec
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Effective parallelization: 6.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    8 times, average 11.58 sec, max 19.48 sec, min 2.10 sec)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    8 times, average 11.35 sec, max 19.60 sec, min 2.32 sec)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    8 times, average 11.20 sec, max 19.24 sec, min 2.44 sec)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    9 times, average 11.16 sec, max 20.26 sec, min 2.23 sec)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   11 times, average 9.86 sec, max 18.91 sec, min 2.25 sec)
+[2023.04.14-02.33.03:108][260]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-02.33.03:109][260]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.59% of total time (compiled   57 times, average 3.90 sec, max 19.26 sec, min 1.68 sec)
+[2023.04.14-02.33.03:109][260]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 6.53% of total time (compiled   53 times, average 4.15 sec, max 20.17 sec, min 1.78 sec)
+[2023.04.14-02.33.03:109][260]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.69% of total time (compiled   52 times, average 3.69 sec, max 8.34 sec, min 1.55 sec)
+[2023.04.14-02.33.03:109][260]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 4.97% of total time (compiled   56 times, average 2.99 sec, max 5.69 sec, min 0.87 sec)
+[2023.04.14-02.33.03:109][260]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.94% of total time (compiled   33 times, average 5.04 sec, max 20.63 sec, min 1.16 sec)
+[2023.04.14-02.33.03:109][260]LogShaderCompilers: Display: ================================================
+[2023.04.14-02.35.56:374][670]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.35.58:426][778]LogSlate: Took 0.093851 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.14-02.37.16:902][799]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Enemy/Oriental/Raijin_GodOfThunder/Meshes/SK_Raijin.SK_Raijin
+[2023.04.14-02.37.16:972][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.37.17:052][799]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_183:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-02.37.17:681][799]LogViewport: Scene viewport resized to 1141x858, mode Windowed.
+[2023.04.14-02.48.37:527][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset" SILENT=true
+[2023.04.14-02.48.37:548][998]LogSavePackage: Moving output files for package: /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin
+[2023.04.14-02.48.37:548][998]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_RaijinB659756D4C15A8A5ECF028A10E6F5BE5.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.uasset'
+[2023.04.14-02.48.37:622][998]AssetCheck: New page: Asset Save: BP_Raijin
+[2023.04.14-02.48.37:622][998]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.BP_Raijin
+[2023.04.14-02.48.38:950][ 90]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemy/Oriental/Raijin_GodOfThunder/BP_Raijin.
+[2023.04.14-02.48.39:474][111]LogSlate: Window 'SK_Raijin' being destroyed
+[2023.04.14-02.48.39:481][111]LogSlate: Window 'SK_Raijin' being destroyed
+[2023.04.14-02.48.39:508][111]LogWorld: UWorld::CleanupWorld for World_167, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.39:509][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.48.39:819][111]LogCascade: Quitting Cascade. FXSystem=0x000007B38C276D50
+[2023.04.14-02.48.39:832][111]LogWorld: UWorld::CleanupWorld for World_174, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.39:832][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.48.39:917][111]LogCascade: Quitting Cascade. FXSystem=0x000007B39E55A440
+[2023.04.14-02.48.39:959][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2023.04.14-02.48.39:959][111]LogWorld: UWorld::CleanupWorld for World_175, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.39:960][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.48.40:016][111]LogCascade: Quitting Cascade. FXSystem=0x000007B398B2F2A0
+[2023.04.14-02.48.40:025][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2023.04.14-02.48.40:025][111]LogWorld: UWorld::CleanupWorld for World_176, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.40:025][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.48.40:076][111]LogCascade: Quitting Cascade. FXSystem=0x000007B39A5E3540
+[2023.04.14-02.48.40:083][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2023.04.14-02.48.40:083][111]LogWorld: UWorld::CleanupWorld for World_177, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.40:083][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.48.40:142][111]LogCascade: Quitting Cascade. FXSystem=0x000007B468BA7CE0
+[2023.04.14-02.48.40:149][111]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2023.04.14-02.48.40:149][111]LogWorld: UWorld::CleanupWorld for World_178, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.40:149][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.48.40:341][111]LogWorld: UWorld::CleanupWorld for World_183, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.48.40:341][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.50.18:128][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GAS/EgyptEnemies" FILE="../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-02.50.23:611][ 78]LogUObjectHash: Compacting FUObjectHashTables data took  11.72ms
+[2023.04.14-02.50.23:646][ 78]LogSavePackage: Moving output files for package: /Game/GAS/EgyptEnemies
+[2023.04.14-02.50.23:647][ 78]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/EgyptEnemies7C2903D2462C7BCB914C4CBE750E2F61.tmp' to '../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap'
+[2023.04.14-02.50.24:330][ 78]AssetCheck: New page: Asset Save: EgyptEnemies
+[2023.04.14-02.50.24:330][ 78]LogContentValidation: Display: Validating World /Game/GAS/EgyptEnemies.EgyptEnemies
+[2023.04.14-02.50.51:493][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon_C
+[2023.04.14-02.50.51:494][790]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon_C
+[2023.04.14-02.50.51:511][790]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon as actor: BP_Dragon_C /Game/GAS/EgyptEnemies.EgyptEnemies:PersistentLevel.BP_Dragon_C_0
+[2023.04.14-02.50.51:551][790]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon as actor: BP_Dragon_C /Game/GAS/EgyptEnemies.EgyptEnemies:PersistentLevel.BP_Dragon_C_0
+[2023.04.14-02.50.52:271][827]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon_C
+[2023.04.14-02.50.52:271][827]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon_C
+[2023.04.14-02.50.52:276][827]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon as actor: BP_Dragon_C /Game/GAS/EgyptEnemies.EgyptEnemies:PersistentLevel.BP_Dragon_C_1
+[2023.04.14-02.50.52:298][827]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon as actor: BP_Dragon_C /Game/GAS/EgyptEnemies.EgyptEnemies:PersistentLevel.BP_Dragon_C_1
+[2023.04.14-02.51.58:294][971]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon
+[2023.04.14-02.51.58:295][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.52.00:586][ 70]LogViewport: Scene viewport resized to 1016x616, mode Windowed.
+[2023.04.14-02.52.02:511][201]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.52.17:772][296]LogViewport: Scene viewport resized to 1014x632, mode Windowed.
+[2023.04.14-02.52.17:876][298]LogViewport: Scene viewport resized to 416x198, mode Windowed.
+[2023.04.14-02.52.18:247][328]LogViewport: Scene viewport resized to 1016x616, mode Windowed.
+[2023.04.14-02.52.18:276][328]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.52.18:722][365]LogViewport: Scene viewport resized to 1014x632, mode Windowed.
+[2023.04.14-02.52.18:811][367]LogViewport: Scene viewport resized to 416x198, mode Windowed.
+[2023.04.14-02.52.19:108][388]LogViewport: Scene viewport resized to 1016x616, mode Windowed.
+[2023.04.14-02.52.19:129][388]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.52.19:486][430]LogSlate: Window 'BP_Dragon' being destroyed
+[2023.04.14-02.53.39:315][412]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2023.04.14-02.53.39:328][412]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2023.04.14-02.53.39:336][412]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2023.04.14-02.53.39:368][413]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimBlueprint).
+[2023.04.14-02.53.48:211][ 10]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> ABP_MountainDragon
+[2023.04.14-02.53.48:423][ 10]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemy/Medieval/MountainDragon/ABP_MountainDragon.
+[2023.04.14-02.53.48:423][ 10]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2023.04.14-02.54.48:728][515]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.57.41:791][385]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.57.42:297][438]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.57.43:579][573]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.57.44:033][616]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.57.46:725][913]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.57.49:869][235]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-02.58.51:182][359]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Enemy/Medieval/MountainDragon/ABP_MountainDragon.ABP_MountainDragon
+[2023.04.14-02.58.51:218][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.58.51:265][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.58.51:286][359]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_195:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-02.58.52:052][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-02.58.52:681][359]LogViewport: Scene viewport resized to 475x409, mode Windowed.
+[2023.04.14-02.58.52:828][359]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.14-02.58.55:810][630]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.58.55:810][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-02.59.07:721][656]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.04.14-02.59.11:034][942]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-02.59.11:034][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.00.21:347][123]LogUObjectHash: Compacting FUObjectHashTables data took  27.65ms
+[2023.04.14-03.00.21:375][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GAS/EgyptEnemies" FILE="../../../../../../../Github/Escape-Game/Saved/Autosaves/Game/GAS/EgyptEnemies_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.04.14-03.00.21:391][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/GAS/EgyptEnemies_Auto1
+[2023.04.14-03.00.21:391][123]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/EgyptEnemies_Auto1589FB114490088CD61E7479E22DE2F7A.tmp' to '../../../../../../../Github/Escape-Game/Saved/Autosaves/Game/GAS/EgyptEnemies_Auto1.umap'
+[2023.04.14-03.00.21:622][123]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GAS/EgyptEnemies' took 3.140
+[2023.04.14-03.00.21:622][123]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.140
+[2023.04.14-03.00.21:660][123]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemy/Medieval/MountainDragon/BP_Dragon] ([2] browsable assets)...
+[2023.04.14-03.00.21:728][123]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon_C]
+[2023.04.14-03.00.21:758][123]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy/Medieval/MountainDragon/BP_Dragon.BP_Dragon]
+[2023.04.14-03.00.21:758][123]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Medieval/MountainDragon/BP_Dragon]
+[2023.04.14-03.00.21:761][123]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy/Medieval/MountainDragon/BP_Dragon_Auto1
+[2023.04.14-03.00.21:762][123]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/BP_Dragon_Auto16828ACDE4A6D3264738D178199C9A4D0.tmp' to '../../../../../../../Github/Escape-Game/Saved/Autosaves/Game/Enemy/Medieval/MountainDragon/BP_Dragon_Auto1.uasset'
+[2023.04.14-03.00.21:762][123]LogFileHelpers: Auto-saving content packages took 0.140
+[2023.04.14-03.01.43:991][883]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemy/Medieval/MountainDragon/Animations/ANIM_MOUNTAIN_DRAGON_walk_RM.ANIM_MOUNTAIN_DRAGON_walk_RM
+[2023.04.14-03.01.43:991][883]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy/Medieval/MountainDragon/Animations/ANIM_MOUNTAIN_DRAGON_walk_RM.ANIM_MOUNTAIN_DRAGON_walk_RM
+[2023.04.14-03.01.44:002][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.44:025][883]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_198:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.04.14-03.01.44:185][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.44:660][883]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.44:676][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.44:774][883]LogViewport: Scene viewport resized to 685x506, mode Windowed.
+[2023.04.14-03.01.44:876][883]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.04.14-03.01.46:183][965]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.04.14-03.01.49:670][221]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.49:676][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.49:729][221]LogWorld: UWorld::CleanupWorld for World_200, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.49:729][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.01.50:494][266]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.50:501][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.50:540][266]LogWorld: UWorld::CleanupWorld for World_201, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.50:541][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.01.51:454][319]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.51:461][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.51:501][319]LogWorld: UWorld::CleanupWorld for World_202, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.51:501][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.01.52:325][368]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemy/Medieval/MountainDragon/Animations/ANIM_MOUNTAIN_DRAGON_death.ANIM_MOUNTAIN_DRAGON_death
+[2023.04.14-03.01.52:325][368]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.52:336][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.52:382][368]LogWorld: UWorld::CleanupWorld for World_203, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.52:382][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.01.52:996][405]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemy/Medieval/MountainDragon/Animations/ANIM_MOUNTAIN_DRAGON_deathHitTheGround.ANIM_MOUNTAIN_DRAGON_deathHitTheGround
+[2023.04.14-03.01.52:996][405]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.53:003][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.53:040][405]LogWorld: UWorld::CleanupWorld for World_204, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.53:040][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.01.54:901][535]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemy/Medieval/MountainDragon/Animations/ANIM_MOUNTAIN_DRAGON_falling.ANIM_MOUNTAIN_DRAGON_falling
+[2023.04.14-03.01.54:901][535]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.54:907][535]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.54:939][535]LogWorld: UWorld::CleanupWorld for World_205, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.54:939][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.01.58:998][834]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.01.59:004][834]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.01.59:034][834]LogWorld: UWorld::CleanupWorld for World_206, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.01.59:034][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.20:546][473]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.20:553][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.20:581][473]LogWorld: UWorld::CleanupWorld for World_207, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.20:581][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.40:940][101]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.40:946][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.40:981][101]LogWorld: UWorld::CleanupWorld for World_208, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.40:981][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.46:681][510]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.46:687][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.46:736][510]LogWorld: UWorld::CleanupWorld for World_209, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.46:736][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.47:883][593]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.47:889][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.47:918][593]LogWorld: UWorld::CleanupWorld for World_210, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.47:918][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.49:914][732]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.49:920][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.49:979][732]LogWorld: UWorld::CleanupWorld for World_211, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.49:979][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.53:949][980]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.53:955][980]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.53:999][980]LogWorld: UWorld::CleanupWorld for World_212, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.54:000][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.56:774][167]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Enemy/Medieval/MountainDragon/Animations/ANIM_MOUNTAIN_DRAGON_run_RM.ANIM_MOUNTAIN_DRAGON_run_RM
+[2023.04.14-03.02.56:774][167]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.56:781][167]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.56:824][167]LogWorld: UWorld::CleanupWorld for World_213, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.56:824][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.57:945][242]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.57:952][242]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.57:999][242]LogWorld: UWorld::CleanupWorld for World_214, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.57:999][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.02.58:914][303]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.02.58:921][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.02.58:951][303]LogWorld: UWorld::CleanupWorld for World_215, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.02.58:951][303]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.03.07:140][907]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.03.07:146][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.14-03.03.07:189][907]LogWorld: UWorld::CleanupWorld for World_216, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-03.03.07:189][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-03.06.33:978][536]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.04.14-03.06.34:046][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GAS/EgyptEnemies" FILE="../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.04.14-03.06.34:312][537]LogUObjectHash: Compacting FUObjectHashTables data took   9.22ms
+[2023.04.14-03.06.34:344][537]LogSavePackage: Moving output files for package: /Game/GAS/EgyptEnemies
+[2023.04.14-03.06.34:344][537]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/EgyptEnemies74DE9624417465E10DFD0BA0FE6A678F.tmp' to '../../../../../../../Github/Escape-Game/Content/GAS/EgyptEnemies.umap'
+[2023.04.14-03.06.34:381][537]AssetCheck: New page: Asset Save: EgyptEnemies
+[2023.04.14-03.06.34:381][537]LogContentValidation: Display: Validating World /Game/GAS/EgyptEnemies.EgyptEnemies
+[2023.04.14-03.06.37:353][735]LogViewport: Scene viewport resized to 474x420, mode Windowed.
+[2023.04.14-03.06.37:444][737]LogViewport: Scene viewport resized to 194x119, mode Windowed.
+[2023.04.14-03.06.37:807][756]LogViewport: Scene viewport resized to 475x409, mode Windowed.
+[2023.04.14-03.06.55:001][ 17]BlueprintLog: New page: Compile ABP_MountainDragon
+[2023.04.14-03.06.55:838][ 17]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2023.04.14-03.07.19:455][742]LogSlate: Took 0.057670 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.04.14-03.07.25:655][ 82]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.04.14-03.07.40:940][396]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.14-03.07.40:955][396]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.04.14-03.08.20:978][518]BlueprintLog: New page: Compile ABP_MountainDragon
+[2023.04.14-03.08.21:099][518]LogBlueprint: Error: [AssetLog] /Game/Enemy/Medieval/MountainDragon/ABP_MountainDragon.ABP_MountainDragon (no disk path found): [Compiler] This blueprint (self) is not a Character, therefore ' Target ' must have a connection.
+[2023.04.14-03.08.21:106][518]LogBlueprint: Error: [AssetLog] /Game/Enemy/Medieval/MountainDragon/ABP_MountainDragon.ABP_MountainDragon (no disk path found): [Compiler] Variable node  Get CharacterMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2023.04.14-03.08.21:277][518]LogUObjectHash: Compacting FUObjectHashTables data took  23.29ms
+[2023.04.14-03.08.27:518][987]BlueprintLog: New page: Compile ABP_MountainDragon
+[2023.04.14-03.08.27:667][987]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2023.04.14-03.10.51:353][620]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.04.14-03.10.51:482][620]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapGridFlow_SideScroller/Blueprints/Characters/SS_SprintCamShake.SS_SprintCamShake_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-03.10.51:482][620]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_TakeDamage.HeadBob_TakeDamage_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-03.10.51:482][620]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Shoot.HeadBob_Shoot_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-03.10.51:482][620]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Run.HeadBob_Run_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-03.10.51:482][620]LogEditorClassViewer: Warning: Class /DungeonArchitect/Samples/DA_SnapMap_GameDemo/Blueprints/Camera/Shakes/HeadBob_Idle.HeadBob_Idle_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-03.10.51:482][620]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.14-03.13.01:035][195]LogD3D12RHI: Display: D3D12 CreatePlacedResource failed with params:
+	Heap Type: 1
+	Heap Flags: 68
+	Resource Dimension: 3
+	Resource Width: 256
+	Resource Height: 256
+	HeightFormat: 2
+	Resource Flags: 0
+[2023.04.14-03.13.01:224][195]LogD3D12RHI: Error: hr failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Resources.cpp:629 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2023.04.14-03.13.01:224][195]LogRHI: Error: [Aftermath] Status: Timeout
+[2023.04.14-03.13.01:224][195]LogRHI: Error: [Aftermath] Failed to get Aftermath stack data
+[2023.04.14-03.13.01:224][195]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2023.04.14-03.13.01:224][195]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 640195 - Scene - SubmitCommands
+[2023.04.14-03.13.01:283][195]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2023.04.14-03.13.01:340][195]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2023.04.14-03.13.01:415][195]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2023.04.14-03.13.01:415][195]LogD3D12RHI: Error: DRED: No PageFault data.
+[2023.04.14-03.13.01:415][195]LogD3D12RHI: Error: Memory Info from frame ID 643744:
+[2023.04.14-03.13.01:415][195]LogD3D12RHI: Error: 	Budget:	2532.15 MB
+[2023.04.14-03.13.01:415][195]LogD3D12RHI: Error: 	Used:	1832.20 MB
+[2023.04.14-03.13.04:696][195]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Util.cpp] [Line: 859] 
+hr failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Resources.cpp:629 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+
+
+
+[2023.04.14-03.14.05:285][195]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.04.14-03.14.05:285][195]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11961ms] waiting for h/w. InstanceID=1
+[2023.04.14-03.14.05:285][195]LogDerivedDataCache: C:/Users/Sarmiento PC/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.095 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-03.14.05:285][195]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.04.14-03.14.05:285][195]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.04.14-03.14.05:285][195]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.04.14-03.14.05:285][195]LogWindows: FPlatformMisc::RequestExit(1)
+[2023.04.14-03.14.05:285][195]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2023.04.14-03.14.05:285][195]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
+[2023.04.14-03.14.05:491][195]Log file closed, 04/13/23 20:14:05
