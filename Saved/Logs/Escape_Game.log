@@ -6903,3 +6903,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.15-03.52.26:294][955]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/Drake_ABPB74CD39840B2C1124008A9A52B64AE1C.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Medieval/Drake/Models/Drake_ABP.uasset'
 [2023.04.15-03.52.26:313][955]AssetCheck: New page: Asset Save: Drake_ABP
 [2023.04.15-03.52.26:313][955]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemy/Medieval/Drake/Models/Drake_ABP.Drake_ABP
+[2023.04.15-03.53.31:076][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Medieval/Drake/Animations/AttackHandAnim" FILE="../../../../../../../Github/Escape-Game/Content/Enemy/Medieval/Drake/Animations/AttackHandAnim.uasset" SILENT=true
+[2023.04.15-03.53.31:094][780]LogSavePackage: Moving output files for package: /Game/Enemy/Medieval/Drake/Animations/AttackHandAnim
+[2023.04.15-03.53.31:095][780]LogSavePackage: Moving '../../../../../../../Github/Escape-Game/Saved/AttackHandAnimBB848F37410FEC4B64E278A8CA805DC5.tmp' to '../../../../../../../Github/Escape-Game/Content/Enemy/Medieval/Drake/Animations/AttackHandAnim.uasset'
+[2023.04.15-03.53.31:128][780]AssetCheck: New page: Asset Save: AttackHandAnim
+[2023.04.15-03.53.31:129][780]LogContentValidation: Display: Validating AnimSequence /Game/Enemy/Medieval/Drake/Animations/AttackHandAnim.AttackHandAnim
