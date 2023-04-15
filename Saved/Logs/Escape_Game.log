@@ -2798,3 +2798,261 @@ Make sure 'Goblin_Shield_C' has been compiled for  Get Goblin
 [2023.04.15-02.17.20:386][928]LogContentValidation: Display: Validating World /Game/GAS/EgyptEnemies.EgyptEnemies
 [2023.04.15-02.17.20:386][928]LogContentValidation: Display: Validating Skeleton /Game/Enemy/Medieval/Goblins/Models/Goblins_M/Goblins_Skeleton.Goblins_Skeleton
 [2023.04.15-02.17.20:387][928]LogContentValidation: Display: Validating Blueprint /Game/Enemy/Medieval/Goblins/Models/Shield/Goblin_Shield.Goblin_Shield
+[2023.04.15-02.17.57:139][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.04.15-02.17.57:367][406]LogStall: Shutdown...
+[2023.04.15-02.17.57:735][406]LogStall: Shutdown complete.
+[2023.04.15-02.17.58:319][406]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.17.58:319][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.00:282][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.15-02.18.00:282][406]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.00:283][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.00:463][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.15-02.18.00:463][406]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.00:463][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.01:506][406]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.01:506][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.01:881][406]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.01:881][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.02:002][406]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.02:002][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.02:370][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.15-02.18.02:370][406]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.02:370][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.02:628][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.15-02.18.02:628][406]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.02:628][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.02:912][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.15-02.18.02:912][406]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.02:912][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:173][406]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:173][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:385][406]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:385][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:438][406]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:439][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:723][406]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:723][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:794][406]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:794][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:840][406]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:840][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.03:894][406]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.15-02.18.03:895][406]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.03:895][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-02.18.04:657][406]LogSlate: Window 'Escape_Game - Unreal Editor' being destroyed
+[2023.04.15-02.18.12:696][407]Cmd: QUIT_EDITOR
+[2023.04.15-02.18.12:887][407]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.15-02.18.13:795][407]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.15-02.18.13:900][407]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.04.15-02.18.13:962][407]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.04.15-02.18.18:848][407]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.15-02.18.18:849][407]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.15-02.18.18:849][407]LogAudio: Display: Audio Device unregistered from world 'EgyptEnemies'.
+[2023.04.15-02.18.19:075][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.15-02.18.19:077][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.15-02.18.20:261][407]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.15-02.18.20:942][407]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.15-02.18.21:511][407]LogExit: Preparing to exit.
+[2023.04.15-02.18.25:298][407]LogUObjectHash: Compacting FUObjectHashTables data took  37.20ms
+[2023.04.15-02.18.25:424][407]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.25:811][407]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:655][407]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:790][407]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:790][407]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:790][407]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:790][407]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:810][407]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:819][407]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:819][407]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.26:831][407]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:050][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:051][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:053][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:054][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:054][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:054][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:055][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:055][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:055][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:055][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:055][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:056][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:057][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:058][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:059][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:061][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:062][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:064][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:065][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:065][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:065][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:065][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:065][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:065][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:066][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:066][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:067][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:068][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:069][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:070][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:071][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:072][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:072][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:072][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:072][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:072][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:073][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:074][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:076][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.15-02.18.46:077][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.47:436][407]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-02.18.48:566][407]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/Github/Escape-Game/Content/] 
+[2023.04.15-02.18.52:898][407]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.15-02.18.57:702][407]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.04.15-02.18.57:827][407]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.04.15-02.18.58:372][407]LogExit: Editor shut down
+[2023.04.15-02.18.59:006][407]LogExit: Transaction tracking system shut down
