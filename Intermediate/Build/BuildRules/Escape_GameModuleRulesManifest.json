@@ -1,12 +1,12 @@
 {
 	"SourceFiles": [
-		"D:\\Github\\Escape-Game\\Source\\Escape_Game\\Escape_Game.Build.cs",
-		"D:\\Github\\Escape-Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
-		"D:\\Github\\Escape-Game\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
-		"D:\\Github\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectEditor\\DungeonArchitectEditor.Build.cs",
-		"D:\\Github\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectRuntime\\DungeonArchitectRuntime.Build.cs",
-		"D:\\Github\\Escape-Game\\Source\\Escape_Game.Target.cs",
-		"D:\\Github\\Escape-Game\\Source\\Escape_GameEditor.Target.cs"
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Source\\Escape_Game\\Escape_Game.Build.cs",
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectEditor\\DungeonArchitectEditor.Build.cs",
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Plugins\\DungeonArchitect\\Source\\DungeonArchitectRuntime\\DungeonArchitectRuntime.Build.cs",
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Source\\Escape_Game.Target.cs",
+		"C:\\Users\\wadan\\OneDrive\\Documents\\GitHub\\Escape-Game\\Source\\Escape_GameEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
